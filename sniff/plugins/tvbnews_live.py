@@ -47,11 +47,9 @@ class tvbnews_live(web_live):
             self.logger.error(err)
             return None
 
-        if response.status_code != 302:
-            self.logger.error("m3u8 link not found!")
-            return None
+        if response.status_code == 302:
+            link = response.headers["Location"]
 
-        link = response.headers["Location"]
         print("  {0: <20}{1:}".format(self.extinfo[4], link))
         channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
         self.link = link
