@@ -23,7 +23,7 @@ class tvbnews_live(web_live):
         #ip = random.choice(ip_pool)
         #token = "http://token.tvb.com/stream/live/hls/mobilehd_%s.smil?app=news&feed&client_ip=%s"%(self.chname, ip)
 
-        token = "http://token.tvb.com/stream/live/hls/mobilehd_%s.smil?app=news"%(self.chname)
+        token = "http://token.tvb.com/stream/live/hls/mobilehd_%s.smil?app=news&feed&client_ip="%(self.chname)
         liveurl = "%s?token=%s"%(self.liveapi, urllib.parse.quote(token, safe=''))
         try:
             response = requests.get(liveurl, headers=self.headers)
