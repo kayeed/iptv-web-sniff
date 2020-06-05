@@ -19,11 +19,11 @@ class tvbnews_live(web_live):
 
         print("probe website %s ......"%(self.website))
 
-        ip_pool = [str(ip) for ip in ipaddress.IPv4Network('112.118.0.0/16')]
+        #ip_pool = [str(ip) for ip in ipaddress.IPv4Network('112.118.0.0/16')]
+        #ip = random.choice(ip_pool)
+        #token = "http://token.tvb.com/stream/live/hls/mobilehd_%s.smil?app=news&feed&client_ip=%s"%(self.chname, ip)
 
-        ip = random.choice(ip_pool)
-        token = "http://token.tvb.com/stream/live/hls/mobilehd_%s.smil?app=news&feed&client_ip=%s"%(self.chname, ip)
-
+        token = "http://token.tvb.com/stream/live/hls/mobilehd_%s.smil?app=news"%(self.chname)
         liveurl = "%s?token=%s"%(self.liveapi, urllib.parse.quote(token, safe=''))
         try:
             response = requests.get(liveurl, headers=self.headers)
