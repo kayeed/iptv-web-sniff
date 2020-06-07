@@ -100,7 +100,7 @@
         "m3u8":"gztv_yingshi.m3u8"
     },
     {
-        "active":1,
+        "active":0,
         "plugin":"gztv_live",
         "channel":"5c7f711de4b01c17db18fbdf",
         "website":"https://tv.gztv.com/",
@@ -132,10 +132,10 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"广州生活",
+            "tvg-name":"南国都市",
             "tvg-logo":"http://www.tvyan.com/uploads/dianshi/gzshpd.jpg",
             "group-title":"广州",
-            "title":"广州生活"
+            "title":"南国都市"
         },
         "m3u8":"gztv_shenghuo.m3u8"
     }
