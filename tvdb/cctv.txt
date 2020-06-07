@@ -1762,6 +1762,86 @@
     {
         "active": 1,
         "plugin": "cctv_live",
+        "channel": "a3aff9a4c4a5438d8cc770e36604ef38",
+        "website": "https://tv.cctv.com/2020/06/06/VIDEagMveS34v9XK41LNjqio200606.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "河流的故乡",
+            "tvg-logo": "https://p3.img.cctvpic.com/fmspic/2020/06/05/a3aff9a4c4a5438d8cc770e36604ef38-1.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "呼伦贝尔系列.河流的故乡"
+        },
+        "m3u8": "cctv_a3aff9a4c4a5438d8cc770e36604ef38.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "990dd84d6d8a43a0a209e4862c37ece3",
+        "website": "https://tv.cctv.com/2020/06/06/VIDEFjxhlxnrgV1EG0a7hwPk200606.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "森林明星鸟",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/06/990dd84d6d8a43a0a209e4862c37ece3-1.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "张家界系列.森林明星鸟"
+        },
+        "m3u8": "cctv_990dd84d6d8a43a0a209e4862c37ece3.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "5f7fe0532829444bb98f24ca6070d95e",
+        "website": "https://tv.cctv.com/2020/06/07/VIDEPFjvLQISrEzKTCpEvR1z200607.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "鸟的爱情",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/07/5f7fe0532829444bb98f24ca6070d95e-1.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "张家界系列.鸟的爱情"
+        },
+        "m3u8": "cctv_5f7fe0532829444bb98f24ca6070d95e.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "118a4be9ddc54c4eba67e00ed25d78f3",
+        "website": "https://tv.cctv.com/2020/06/08/VIDEN7MGvCnEPrBPKAz8kjjE200608.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "深林留香",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/07/118a4be9ddc54c4eba67e00ed25d78f3-1.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "张家界系列.深林留香"
+        },
+        "m3u8": "cctv_118a4be9ddc54c4eba67e00ed25d78f3.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
         "channel": "d64a17c7177641b18fa37b59f4b5ae2b",
         "website": "https://tv.cctv.com/2020/04/27/VIDEgg70SYaoezxlwBCSyRNX200427.shtml",
         "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
