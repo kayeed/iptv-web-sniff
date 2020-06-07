@@ -2,7 +2,7 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/822pcc7",
+        "channel":"/live/8222pcc7",
         "website":"",
         "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
         "headers":{
@@ -22,7 +22,7 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/822pin7",
+        "channel":"/live/8222pin7",
         "website":"",
         "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
         "headers":{
@@ -42,7 +42,7 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/822phk7",
+        "channel":"/live/8222phk7",
         "website":"",
         "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
         "headers":{
@@ -62,7 +62,7 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/822pcc4",
+        "channel":"/live/8222pcc4",
         "website":"",
         "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
         "headers":{
@@ -82,7 +82,7 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/822pin4",
+        "channel":"/live/8222pin4",
         "website":"",
         "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
         "headers":{
@@ -102,7 +102,7 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/822phk4",
+        "channel":"/live/8222phk4",
         "website":"",
         "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
         "headers":{
