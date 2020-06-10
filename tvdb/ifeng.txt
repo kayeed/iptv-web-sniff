@@ -2,11 +2,11 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/8222pcc72",
+        "channel":"/live/822pcc72",
         "website":"",
         "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
         "headers":{
-            "User-Agent":"",
+            "User-Agent":"Lavf/57.71.100",
             "Referer":""
         },
         "referer":0,
@@ -22,11 +22,11 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/8222pin72",
+        "channel":"/live/822pin72",
         "website":"",
         "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
         "headers":{
-            "User-Agent":"",
+            "User-Agent":"Lavf/57.71.100",
             "Referer":""
         },
         "referer":0,
@@ -42,11 +42,11 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/8222phk72",
+        "channel":"/live/822phk72",
         "website":"",
         "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
         "headers":{
-            "User-Agent":"",
+            "User-Agent":"Lavf/57.71.100",
             "Referer":""
         },
         "referer":0,
@@ -62,11 +62,11 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/8222pcc36",
+        "channel":"/live/822pcc36",
         "website":"",
         "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
         "headers":{
-            "User-Agent":"",
+            "User-Agent":"Lavf/57.71.100",
             "Referer":""
         },
         "referer":0,
@@ -82,11 +82,11 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/8222pin36",
+        "channel":"/live/822pin36",
         "website":"",
         "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
         "headers":{
-            "User-Agent":"",
+            "User-Agent":"Lavf/57.71.100",
             "Referer":""
         },
         "referer":0,
@@ -102,11 +102,11 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/8222phk36",
+        "channel":"/live/822phk36",
         "website":"",
         "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
         "headers":{
-            "User-Agent":"",
+            "User-Agent":"Lavf/57.71.100",
             "Referer":""
         },
         "referer":0,
