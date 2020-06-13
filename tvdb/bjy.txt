@@ -1,0 +1,2822 @@
+[
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "27748",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV1",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
+            "group-title": "北京云",
+            "title": "CCTV-1高清"
+        },
+        "m3u8": "bjy_27748.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "27742",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV3",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",
+            "group-title": "北京云",
+            "title": "CCTV-3高清"
+        },
+        "m3u8": "bjy_27742.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "27743",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV5",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",
+            "group-title": "北京云",
+            "title": "CCTV-5高清"
+        },
+        "m3u8": "bjy_27743.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "27746",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV6",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",
+            "group-title": "北京云",
+            "title": "CCTV-6高清"
+        },
+        "m3u8": "bjy_27746.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "27749",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV8",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",
+            "group-title": "北京云",
+            "title": "CCTV-8高清"
+        },
+        "m3u8": "bjy_27749.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "8412",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV11",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",
+            "group-title": "北京云",
+            "title": "CCTV11"
+        },
+        "m3u8": "bjy_8412.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "8420",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV新闻",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "CCTV新闻"
+        },
+        "m3u8": "bjy_8420.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "8421",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV音乐",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "CCTV音乐"
+        },
+        "m3u8": "bjy_8421.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "8418",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CGTN",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",
+            "group-title": "北京云",
+            "title": "CGTN"
+        },
+        "m3u8": "bjy_8418.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92405",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV5+",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",
+            "group-title": "北京云",
+            "title": "CCTV-5+"
+        },
+        "m3u8": "bjy_92405.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98789",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "歌华导视高清",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "歌华导视高清"
+        },
+        "m3u8": "bjy_98789.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "46047",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "聚鲨环球精选",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "聚鲨环球精选"
+        },
+        "m3u8": "bjy_46047.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "27747",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "北京卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/beijing.png",
+            "group-title": "北京云",
+            "title": "北京卫视高清"
+        },
+        "m3u8": "bjy_27747.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "31378",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "BTV文艺高清",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "BTV文艺高清"
+        },
+        "m3u8": "bjy_31378.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98784",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "BTV科教",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png",
+            "group-title": "北京云",
+            "title": "BTV科教"
+        },
+        "m3u8": "bjy_98784.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "8406",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "BTV影视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png",
+            "group-title": "北京云",
+            "title": "BTV影视"
+        },
+        "m3u8": "bjy_8406.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "8407",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "BTV财经",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png",
+            "group-title": "北京云",
+            "title": "BTV财经"
+        },
+        "m3u8": "bjy_8407.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "8408",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "BTV生活",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png",
+            "group-title": "北京云",
+            "title": "BTV生活"
+        },
+        "m3u8": "bjy_8408.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "8409",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "BTV青年",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png",
+            "group-title": "北京云",
+            "title": "BTV青年"
+        },
+        "m3u8": "bjy_8409.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "8410",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "BTV新闻",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png",
+            "group-title": "北京云",
+            "title": "BTV新闻"
+        },
+        "m3u8": "bjy_8410.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "8250",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "BTV卡酷",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "BTV卡酷"
+        },
+        "m3u8": "bjy_8250.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "27745",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "湖南卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/hunan.png",
+            "group-title": "北京云",
+            "title": "湖南卫视高清"
+        },
+        "m3u8": "bjy_27745.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "27744",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "江苏卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",
+            "group-title": "北京云",
+            "title": "江苏卫视高清"
+        },
+        "m3u8": "bjy_27744.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "27750",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "浙江卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+            "group-title": "北京云",
+            "title": "浙江卫视高清"
+        },
+        "m3u8": "bjy_27750.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "31325",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "东方卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/dongfang.png",
+            "group-title": "北京云",
+            "title": "东方卫视高清"
+        },
+        "m3u8": "bjy_31325.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92431",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "深圳卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",
+            "group-title": "北京云",
+            "title": "深圳卫视高清"
+        },
+        "m3u8": "bjy_92431.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "8422",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "云南卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/yunnan.png",
+            "group-title": "北京云",
+            "title": "云南卫视"
+        },
+        "m3u8": "bjy_8422.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "8426",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "安徽卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/anhui.png",
+            "group-title": "北京云",
+            "title": "安徽卫视"
+        },
+        "m3u8": "bjy_8426.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92426",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "山东卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/shandong.png",
+            "group-title": "北京云",
+            "title": "山东卫视高清"
+        },
+        "m3u8": "bjy_92426.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92433",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CETV-3",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "CETV-3"
+        },
+        "m3u8": "bjy_92433.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "8424",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "重庆卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/chongqing.png",
+            "group-title": "北京云",
+            "title": "重庆卫视"
+        },
+        "m3u8": "bjy_8424.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92429",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "黑龙江卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",
+            "group-title": "北京云",
+            "title": "黑龙江卫视高清"
+        },
+        "m3u8": "bjy_92429.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "8423",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "贵州卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/guizhou.png",
+            "group-title": "北京云",
+            "title": "贵州卫视"
+        },
+        "m3u8": "bjy_8423.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92420",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "四川卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/sichuan.png",
+            "group-title": "北京云",
+            "title": "四川卫视"
+        },
+        "m3u8": "bjy_92420.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92411",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "江西卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",
+            "group-title": "北京云",
+            "title": "江西卫视"
+        },
+        "m3u8": "bjy_92411.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92430",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "天津卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/tianjin.png",
+            "group-title": "北京云",
+            "title": "天津卫视高清"
+        },
+        "m3u8": "bjy_92430.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92409",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "广西卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/guangxi.png",
+            "group-title": "北京云",
+            "title": "广西卫视"
+        },
+        "m3u8": "bjy_92409.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92412",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "河南卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/henan.png",
+            "group-title": "北京云",
+            "title": "河南卫视"
+        },
+        "m3u8": "bjy_92412.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92428",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "广东卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/guangdong.png",
+            "group-title": "北京云",
+            "title": "广东卫视高清"
+        },
+        "m3u8": "bjy_92428.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "96233",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "东南卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/dongnan.png",
+            "group-title": "北京云",
+            "title": "东南卫视"
+        },
+        "m3u8": "bjy_96233.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92427",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "湖北卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/hubei.png",
+            "group-title": "北京云",
+            "title": "湖北卫视高清"
+        },
+        "m3u8": "bjy_92427.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92414",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "陕西卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/shanxi.png",
+            "group-title": "北京云",
+            "title": "陕西卫视"
+        },
+        "m3u8": "bjy_92414.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92421",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "宁夏卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/ningxia.png",
+            "group-title": "北京云",
+            "title": "宁夏卫视"
+        },
+        "m3u8": "bjy_92421.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92415",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "青海卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/qinghai.png",
+            "group-title": "北京云",
+            "title": "青海卫视"
+        },
+        "m3u8": "bjy_92415.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92423",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "甘肃卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/gansu.png",
+            "group-title": "北京云",
+            "title": "甘肃卫视"
+        },
+        "m3u8": "bjy_92423.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92406",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "山东教育卫视",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "山东教育卫视"
+        },
+        "m3u8": "bjy_92406.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92416",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "河北卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/hebei.png",
+            "group-title": "北京云",
+            "title": "河北卫视"
+        },
+        "m3u8": "bjy_92416.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92419",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "山西卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",
+            "group-title": "北京云",
+            "title": "山西卫视"
+        },
+        "m3u8": "bjy_92419.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92408",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "内蒙古卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/neimeng.png",
+            "group-title": "北京云",
+            "title": "内蒙古卫视"
+        },
+        "m3u8": "bjy_92408.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92417",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "新疆卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",
+            "group-title": "北京云",
+            "title": "新疆卫视"
+        },
+        "m3u8": "bjy_92417.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92413",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "西藏卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/xizang.png",
+            "group-title": "北京云",
+            "title": "西藏卫视"
+        },
+        "m3u8": "bjy_92413.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "96100",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CETV-4",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "CETV-4"
+        },
+        "m3u8": "bjy_96100.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98805",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "家有购物",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "家有购物"
+        },
+        "m3u8": "bjy_98805.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "96102",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "时尚购物",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "时尚购物"
+        },
+        "m3u8": "bjy_96102.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98809",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "快乐购物",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "快乐购物"
+        },
+        "m3u8": "bjy_98809.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98811",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "央广购物",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "央广购物"
+        },
+        "m3u8": "bjy_98811.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98813",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "优购物",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "优购物"
+        },
+        "m3u8": "bjy_98813.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98815",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "家家购物",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "家家购物"
+        },
+        "m3u8": "bjy_98815.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98817",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "东方购物",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "东方购物"
+        },
+        "m3u8": "bjy_98817.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98819",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "中视购物",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "中视购物"
+        },
+        "m3u8": "bjy_98819.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "96104",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "好享购物",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "好享购物"
+        },
+        "m3u8": "bjy_96104.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "96106",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "风尚购物",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "风尚购物"
+        },
+        "m3u8": "bjy_96106.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92434",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "厦门卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/xiamen.png",
+            "group-title": "北京云",
+            "title": "厦门卫视"
+        },
+        "m3u8": "bjy_92434.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98915",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "金鹰卡通",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png",
+            "group-title": "北京云",
+            "title": "金鹰卡通"
+        },
+        "m3u8": "bjy_98915.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "32102",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "三沙卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/sansha.png",
+            "group-title": "北京云",
+            "title": "三沙卫视"
+        },
+        "m3u8": "bjy_32102.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98807",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "爱家购物",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "爱家购物"
+        },
+        "m3u8": "bjy_98807.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92407",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "兵团卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/bingtuan.png",
+            "group-title": "北京云",
+            "title": "兵团卫视"
+        },
+        "m3u8": "bjy_92407.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98897",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "百姓健康",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/CHTV.jpg",
+            "group-title": "北京云",
+            "title": "百姓健康"
+        },
+        "m3u8": "bjy_98897.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98891",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "国学频道",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "国学频道"
+        },
+        "m3u8": "bjy_98891.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98873",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "游戏竞技",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "游戏竞技"
+        },
+        "m3u8": "bjy_98873.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98887",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "家庭理财",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "家庭理财"
+        },
+        "m3u8": "bjy_98887.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44189",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "四海钓鱼",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg",
+            "group-title": "北京云",
+            "title": "四海钓鱼"
+        },
+        "m3u8": "bjy_44189.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98827",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "动感音乐",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/BAMC5.jpg",
+            "group-title": "北京云",
+            "title": "动感音乐"
+        },
+        "m3u8": "bjy_98827.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98837",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "车迷频道",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg",
+            "group-title": "北京云",
+            "title": "车迷频道"
+        },
+        "m3u8": "bjy_98837.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98829",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "新娱乐",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/BAMC7.jpg",
+            "group-title": "北京云",
+            "title": "新娱乐"
+        },
+        "m3u8": "bjy_98829.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98839",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "环球旅游",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg",
+            "group-title": "北京云",
+            "title": "环球旅游"
+        },
+        "m3u8": "bjy_98839.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98849",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "收藏天下",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "收藏天下"
+        },
+        "m3u8": "bjy_98849.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98853",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "休闲指南",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/BAMC16.jpg",
+            "group-title": "北京云",
+            "title": "休闲指南"
+        },
+        "m3u8": "bjy_98853.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98863",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "中国天气",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "中国天气"
+        },
+        "m3u8": "bjy_98863.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98821",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "京视剧场",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/BAMC8.jpg",
+            "group-title": "北京云",
+            "title": "京视剧场"
+        },
+        "m3u8": "bjy_98821.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "96110",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "置业频道",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/BAMC11.jpg",
+            "group-title": "北京云",
+            "title": "置业频道"
+        },
+        "m3u8": "bjy_96110.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98889",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "东方财经",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "东方财经"
+        },
+        "m3u8": "bjy_98889.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98901",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "全纪实",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/quanjishi.png",
+            "group-title": "北京云",
+            "title": "全纪实"
+        },
+        "m3u8": "bjy_98901.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98831",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "魅力音乐",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "魅力音乐"
+        },
+        "m3u8": "bjy_98831.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98857",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "生活时尚",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png",
+            "group-title": "北京云",
+            "title": "生活时尚"
+        },
+        "m3u8": "bjy_98857.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98833",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "七彩戏剧",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",
+            "group-title": "北京云",
+            "title": "七彩戏剧"
+        },
+        "m3u8": "bjy_98833.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98875",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "劲爆体育",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg",
+            "group-title": "北京云",
+            "title": "劲爆体育"
+        },
+        "m3u8": "bjy_98875.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44200",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "游戏风云",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png",
+            "group-title": "北京云",
+            "title": "游戏风云"
+        },
+        "m3u8": "bjy_44200.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44201",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "动漫秀场",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "动漫秀场"
+        },
+        "m3u8": "bjy_44201.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98877",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "极速汽车",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "极速汽车"
+        },
+        "m3u8": "bjy_98877.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98903",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "法治天地",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "法治天地"
+        },
+        "m3u8": "bjy_98903.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98823",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "欢笑剧场",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/huanxiao.png",
+            "group-title": "北京云",
+            "title": "欢笑剧场"
+        },
+        "m3u8": "bjy_98823.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44206",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "金色频道",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "金色频道"
+        },
+        "m3u8": "bjy_44206.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44197",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CHC动作电影",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",
+            "group-title": "北京云",
+            "title": "CHC动作电影"
+        },
+        "m3u8": "bjy_44197.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "96112",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "网络棋牌",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/wangluoqipai.png",
+            "group-title": "北京云",
+            "title": "网络棋牌"
+        },
+        "m3u8": "bjy_96112.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98859",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "中华美食",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg",
+            "group-title": "北京云",
+            "title": "中华美食"
+        },
+        "m3u8": "bjy_98859.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44196",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CHC家庭影院",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "CHC家庭影院"
+        },
+        "m3u8": "bjy_44196.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44204",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "都市剧场",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "都市剧场"
+        },
+        "m3u8": "bjy_44204.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98861",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "优优宝贝",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg",
+            "group-title": "北京云",
+            "title": "优优宝贝"
+        },
+        "m3u8": "bjy_98861.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98905",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "中华特产",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "中华特产"
+        },
+        "m3u8": "bjy_98905.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98879",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "弈坛春秋",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg",
+            "group-title": "北京云",
+            "title": "弈坛春秋"
+        },
+        "m3u8": "bjy_98879.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44213",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "高尔夫",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "高尔夫"
+        },
+        "m3u8": "bjy_44213.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98883",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "高尔夫.网球",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "高尔夫.网球"
+        },
+        "m3u8": "bjy_98883.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44202",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "老故事",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png",
+            "group-title": "北京云",
+            "title": "老故事"
+        },
+        "m3u8": "bjy_44202.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98907",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "书画频道",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg",
+            "group-title": "北京云",
+            "title": "书画频道"
+        },
+        "m3u8": "bjy_98907.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44190",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第一剧场",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png",
+            "group-title": "北京云",
+            "title": "第一剧场"
+        },
+        "m3u8": "bjy_44190.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98865",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "电视指南",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "电视指南"
+        },
+        "m3u8": "bjy_98865.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44191",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "风云剧场",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png",
+            "group-title": "北京云",
+            "title": "风云剧场"
+        },
+        "m3u8": "bjy_44191.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98835",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "风云音乐",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",
+            "group-title": "北京云",
+            "title": "风云音乐"
+        },
+        "m3u8": "bjy_98835.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44192",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "风云足球",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png",
+            "group-title": "北京云",
+            "title": "风云足球"
+        },
+        "m3u8": "bjy_44192.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44193",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "怀旧剧场",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",
+            "group-title": "北京云",
+            "title": "怀旧剧场"
+        },
+        "m3u8": "bjy_44193.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98825",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "央视文化精品",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "央视文化精品"
+        },
+        "m3u8": "bjy_98825.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44194",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "世界地理",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",
+            "group-title": "北京云",
+            "title": "世界地理"
+        },
+        "m3u8": "bjy_44194.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44195",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "国防军事",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "国防军事"
+        },
+        "m3u8": "bjy_44195.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98867",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "女性时尚",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",
+            "group-title": "北京云",
+            "title": "女性时尚"
+        },
+        "m3u8": "bjy_98867.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44209",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "发现之旅",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png",
+            "group-title": "北京云",
+            "title": "发现之旅"
+        },
+        "m3u8": "bjy_44209.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44212",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "财富天下",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/财富天下.png",
+            "group-title": "北京云",
+            "title": "财富天下"
+        },
+        "m3u8": "bjy_44212.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98909",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "环球奇观",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg",
+            "group-title": "北京云",
+            "title": "环球奇观"
+        },
+        "m3u8": "bjy_98909.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98911",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "早期教育",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg",
+            "group-title": "北京云",
+            "title": "早期教育"
+        },
+        "m3u8": "bjy_98911.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "96114",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "靓妆",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "靓妆"
+        },
+        "m3u8": "bjy_96114.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "44207",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "天元围棋",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg",
+            "group-title": "北京云",
+            "title": "天元围棋"
+        },
+        "m3u8": "bjy_44207.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "98885",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "篮球",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "篮球"
+        },
+        "m3u8": "bjy_98885.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "96116",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "茶频道",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg",
+            "group-title": "北京云",
+            "title": "茶频道"
+        },
+        "m3u8": "bjy_96116.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "42623",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV2",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",
+            "group-title": "北京云",
+            "title": "CCTV-2高清"
+        },
+        "m3u8": "bjy_42623.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "42628",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV4",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",
+            "group-title": "北京云",
+            "title": "CCTV-4高清"
+        },
+        "m3u8": "bjy_42628.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "42629",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV7",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",
+            "group-title": "北京云",
+            "title": "CCTV-7高清"
+        },
+        "m3u8": "bjy_42629.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "42630",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV9",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",
+            "group-title": "北京云",
+            "title": "CCTV-9高清"
+        },
+        "m3u8": "bjy_42630.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "42631",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV10",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",
+            "group-title": "北京云",
+            "title": "CCTV-10高清"
+        },
+        "m3u8": "bjy_42631.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "42632",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV12",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",
+            "group-title": "北京云",
+            "title": "CCTV-12高清"
+        },
+        "m3u8": "bjy_42632.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "42633",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV14",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",
+            "group-title": "北京云",
+            "title": "CCTV-14高清"
+        },
+        "m3u8": "bjy_42633.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "92435",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "冬奥纪实高清",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "冬奥纪实高清"
+        },
+        "m3u8": "bjy_92435.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "99005",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "北京卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/beijing.png",
+            "group-title": "北京云",
+            "title": "北京卫视高清"
+        },
+        "m3u8": "bjy_99005.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "77636",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "辽宁卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/liaoning.png",
+            "group-title": "北京云",
+            "title": "辽宁卫视高清"
+        },
+        "m3u8": "bjy_77636.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "42634",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CETV-1高清",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "CETV-1高清"
+        },
+        "m3u8": "bjy_42634.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "32103",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "海南卫视",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "海南卫视高清"
+        },
+        "m3u8": "bjy_32103.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "32104",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "吉林卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/jilin.png",
+            "group-title": "北京云",
+            "title": "吉林卫视高清"
+        },
+        "m3u8": "bjy_32104.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "96118",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "金鹰纪实高清",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "金鹰纪实高清"
+        },
+        "m3u8": "bjy_96118.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "96120",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "纪实高清",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "上海纪实高清"
+        },
+        "m3u8": "bjy_96120.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "18689",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CHC高清电影",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg",
+            "group-title": "北京云",
+            "title": "CHC高清电影"
+        },
+        "m3u8": "bjy_18689.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "99023",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "门头沟区县新闻",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "门头沟区县新闻"
+        },
+        "m3u8": "bjy_99023.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "bjy_live",
+        "channel": "99021",
+        "website": "",
+        "liveapi": "http://m.api.bjy-app.beijingcloud.com.cn/v2/audiovisual?app_version=1.0.0&sign=%s&device_id=1B:DD:71:AC:08:60&time=%s&assetID=%s&system_name=android&ip=192.168.0.1&siteid=10001&clientid=1&resourceCode=%s&modules=programplay:1&type=android&playType=2",
+        "headers": {
+            "User-Agent": "okhttp/3.8.1",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "平谷区县新闻",
+            "tvg-logo": "",
+            "group-title": "北京云",
+            "title": "平谷区县新闻"
+        },
+        "m3u8": "bjy_99021.m3u8"
+    }
+]
