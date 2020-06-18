@@ -72,7 +72,7 @@
         "referer":0,
         "m3uinfo":{
             "tvg-id":"",
-            "tvg-name":"无限财经",
+            "tvg-name":"无线财经",
             "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",
             "group-title":"香港",
             "title":"无线财经资讯台"
