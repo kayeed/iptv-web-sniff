@@ -26,7 +26,7 @@ class shuliyun_live(web_live):
                 "deviceType":"yuj",
                 "deviceno":"CCB5FA96365563E36E514945070588FD5",
                 "role":"guest"
-                }
+               }
         try:
             response = requests.post(liveurl, json=data, headers=self.headers)
             response.raise_for_status()
@@ -37,8 +37,8 @@ class shuliyun_live(web_live):
         try:
             info = json.loads(response.text)
             accesstoken = info["accessToken"]
-        except ValueError:
-            self.logger.error(response.text)
+        except (ValueError, KeyError) as err:
+            self.logger.error("%s - %s"%(err, response.text))
             return None
 
         liveurl = "http://slave.shuliyun.com:13160/media/channel/get_info?chnlid=%s&verifycode=14183&accesstoken=%s"%(self.chname, accesstoken)
@@ -53,7 +53,8 @@ class shuliyun_live(web_live):
             info = json.loads(response.text)
             playtoken = info["play_token"]
             liveurl = info["livetv_url"][0]
-        except ValueError:
+        except (ValueError, KeyError) as err:
+            self.logger.error("%s - %s"%(err, response.text))
             self.logger.error(response.text)
             return None
 
