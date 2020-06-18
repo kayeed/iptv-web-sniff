@@ -2,9 +2,9 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/822pcc72",
+        "channel":"中文台",
         "website":"",
-        "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
+        "liveapi":"https://api.fengshows.cn/live?live_type=tv&page=1&page_size=15",
         "headers":{
             "User-Agent":"Lavf/57.71.100",
             "Referer":""
@@ -22,9 +22,9 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/822pin72",
+        "channel":"資訊台",
         "website":"",
-        "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
+        "liveapi":"https://api.fengshows.cn/live?live_type=tv&page=1&page_size=15",
         "headers":{
             "User-Agent":"Lavf/57.71.100",
             "Referer":""
@@ -42,9 +42,9 @@
     {
         "active":1,
         "plugin":"ifeng_live",
-        "channel":"/live/822phk72",
+        "channel":"香港台",
         "website":"",
-        "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
+        "liveapi":"https://api.fengshows.cn/live?live_type=tv&page=1&page_size=15",
         "headers":{
             "User-Agent":"Lavf/57.71.100",
             "Referer":""
@@ -58,65 +58,5 @@
             "title":"凤凰香港FHD"
         },
         "m3u8":"ifeng_hkfhd.flv"
-    },
-    {
-        "active":1,
-        "plugin":"ifeng_live",
-        "channel":"/live/822pcc36",
-        "website":"",
-        "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
-        "headers":{
-            "User-Agent":"Lavf/57.71.100",
-            "Referer":""
-        },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"凤凰中文",
-            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",
-            "group-title":"凤凰卫视",
-            "title":"凤凰中文HD"
-        },
-        "m3u8":"ifeng_zwhd.flv"
-    },
-    {
-        "active":1,
-        "plugin":"ifeng_live",
-        "channel":"/live/822pin36",
-        "website":"",
-        "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
-        "headers":{
-            "User-Agent":"Lavf/57.71.100",
-            "Referer":""
-        },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"凤凰资讯",
-            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",
-            "group-title":"凤凰卫视",
-            "title":"凤凰资讯HD"
-        },
-        "m3u8":"ifeng_zxhd.flv"
-    },
-    {
-        "active":1,
-        "plugin":"ifeng_live",
-        "channel":"/live/822phk36",
-        "website":"",
-        "liveapi":"http://qlive.fengshows.cn%s.flv?txSecret=%s&txTime=%s",
-        "headers":{
-            "User-Agent":"Lavf/57.71.100",
-            "Referer":""
-        },
-        "referer":0,
-        "m3uinfo":{
-            "tvg-id":"",
-            "tvg-name":"凤凰香港",
-            "tvg-logo":"http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",
-            "group-title":"凤凰卫视",
-            "title":"凤凰香港HD"
-        },
-        "m3u8":"ifeng_hkhd.flv"
     }
 ]
