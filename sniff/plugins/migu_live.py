@@ -43,6 +43,9 @@ class migu_live(web_live):
             link = link.replace('/50/','/57/')
             if not self.check_alive(link):
                 link = link_orig
+            link = link.replace('/50/','/150/')
+            if not self.check_alive(link):
+                link = link_orig
             link = link.replace('350/','2000/')
             if not self.check_alive(link):
                 link = link_orig
