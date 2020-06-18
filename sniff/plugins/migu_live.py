@@ -30,13 +30,26 @@ class migu_live(web_live):
                 self.logger.error(info)
                 return None
             link = info["body"]["urlInfo"]["url"]
-            link_orig = link
-            link = link.replace('/1200/','/2500/')
-            link = link.replace('/1500/','/3000/')
-            link = link.replace('/51/','/57/')
+            #link = link.replace('/1200/','/2500/')
+            #link = link.replace('/1500/','/3000/')
+            #link = link.replace('/51/','/57/')
+            #link = link.replace('/350/','/3000/')
+            link = link.replace('/2018ocn/','/2018/ocn/')
+            link = link.replace('ws450/','ws2000/')
             u = urlparse(link)
             result = u._replace(netloc='live.hcs.cmvideo.cn')
             link = urlunparse(result)
+            link_orig = link
+            link = link.replace('/50/','/57/')
+            if not self.check_alive(link):
+                link = link_orig
+            link = link.replace('350/','2000/')
+            if not self.check_alive(link):
+                link = link_orig
+            link = link.replace('350/','2500/')
+            if not self.check_alive(link):
+                link = link_orig
+            link = link.replace('350/','3000/')
             if not self.check_alive(link):
                 link = link_orig
             print("  {0: <20}{1:}".format(self.extinfo[4], link))
