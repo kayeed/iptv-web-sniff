@@ -19,27 +19,25 @@ class huya_live(web_live):
     def sniff_stream(self):
 
         print("probe website %s ......"%(self.website))
-        liveurl = self.liveapi
+
+        liveurl = 'https://m.huya.com/' + self.chname
+        header = {
+            'Content-Type': 'application/x-www-form-urlencoded',
+            'User-Agent': 'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) '
+                        'Chrome/75.0.3770.100 Mobile Safari/537.36 '
+        }
 
         try:
-            response = requests.get(liveurl, headers=self.headers)
+            response = requests.get(liveurl, headers=header)
             response.raise_for_status()
         except requests.exceptions.RequestException as err:
             self.logger.error(err)
             return
 
         response.encoding = 'utf-8'
-        find = re.findall(r'"stream": ({.+?})\s*};', response.text)
+        find = re.findall(r'liveLineUrl = "([\s\S]*?)";', response.text)
         if find:
-            data = json.loads(find[0])
-            stream_info = random.choice(data['data'][0]['gameStreamInfoList'])
-            #stream_info = data['data'][0]['gameStreamInfoList'][0]
-            sHlsUrl = stream_info['sHlsUrl']
-            sStreamName = stream_info['sStreamName']
-            sHlsUrlSuffix = stream_info['sHlsUrlSuffix']
-            sHlsAntiCode = stream_info['sHlsAntiCode']
-            hls_url = u'{}/{}.{}?{}'.format(sHlsUrl, sStreamName, sHlsUrlSuffix, sHlsAntiCode)
-            link = self.unescape(hls_url)
+            link = find[0].replace("\/", "/")
             print("  {0: <20}{1:}".format(self.extinfo[4], link))
             channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
             self.link = link
@@ -47,6 +45,35 @@ class huya_live(web_live):
         else:
             self.logger.error(response.text)
             return None
+
+        #liveurl = self.liveapi
+
+        #try:
+        #    response = requests.get(liveurl, headers=self.headers)
+        #    response.raise_for_status()
+        #except requests.exceptions.RequestException as err:
+        #    self.logger.error(err)
+        #    return
+
+        #response.encoding = 'utf-8'
+        #find = re.findall(r'"stream": ({.+?})\s*};', response.text)
+        #if find:
+        #    data = json.loads(find[0])
+        #    stream_info = random.choice(data['data'][0]['gameStreamInfoList'])
+        #    #stream_info = data['data'][0]['gameStreamInfoList'][0]
+        #    sHlsUrl = stream_info['sHlsUrl']
+        #    sStreamName = stream_info['sStreamName']
+        #    sHlsUrlSuffix = stream_info['sHlsUrlSuffix']
+        #    sHlsAntiCode = stream_info['sHlsAntiCode']
+        #    hls_url = u'{}/{}.{}?{}'.format(sHlsUrl, sStreamName, sHlsUrlSuffix, sHlsAntiCode)
+        #    link = self.unescape(hls_url)
+        #    print("  {0: <20}{1:}".format(self.extinfo[4], link))
+        #    channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
+        #    self.link = link
+        #    return channel
+        #else:
+        #    self.logger.error(response.text)
+        #    return None
 
     def sniff_m3u8_file(self, m3u8file):
 
