@@ -40,19 +40,22 @@ class migu_live(web_live):
             result = u._replace(netloc='live.hcs.cmvideo.cn')
             link = urlunparse(result)
             link_orig = link
-            link = link.replace('/50/','/57/')
-            if not self.check_alive(link):
-                link = link_orig
-            link = link.replace('/50/','/150/')
-            if not self.check_alive(link):
-                link = link_orig
-            link = link.replace('350/','2000/')
+            link = link.replace('350/','3000/')
             if not self.check_alive(link):
                 link = link_orig
             link = link.replace('350/','2500/')
             if not self.check_alive(link):
                 link = link_orig
-            link = link.replace('350/','3000/')
+            link = link.replace('350/','2000/')
+            if not self.check_alive(link):
+                link = link_orig
+            link = link.replace('350/','1000/')
+            if not self.check_alive(link):
+                link = link_orig
+            link = link.replace('50/','150/')
+            if not self.check_alive(link):
+                link = link_orig
+            link = link.replace('50/','57/')
             if not self.check_alive(link):
                 link = link_orig
             print("  {0: <20}{1:}".format(self.extinfo[4], link))
