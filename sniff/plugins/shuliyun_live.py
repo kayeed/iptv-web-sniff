@@ -27,8 +27,10 @@ class shuliyun_live(web_live):
                 "deviceno":"CCB5FA96365563E36E514945070588FD5",
                 "role":"guest"
                }
+        #liveurl = "http://slave.shuliyun.com:12690/account/login?deviceno=J2P3O2WR-USAI-LUE5-748K-O64MJ2ECZ84E8&devicetype=3&accounttype=2&accesstoken=(null)&account=testiptv1&pwd=a2cf1d68eaab9f028c09492c5831211a&isforce=1"
         try:
             response = requests.post(liveurl, json=data, headers=self.headers)
+            #response = requests.get(liveurl, headers=self.headers)
             response.raise_for_status()
         except requests.exceptions.RequestException as err:
             self.logger.error(err)
