@@ -39,6 +39,7 @@ class shuliyun_live(web_live):
         try:
             info = json.loads(response.text)
             accesstoken = info["accessToken"]
+            #accesstoken = info["access_token"]
         except (ValueError, KeyError) as err:
             self.logger.error("%s - %s"%(err, response.text))
             return None
@@ -67,6 +68,7 @@ class shuliyun_live(web_live):
                   'playtoken': playtoken
                  } 
         link = "%s?%s&programid=%s.m3u8"%(liveurl, urlencode(params), self.chname)
+        #link = "http://access.shuliyun.com:13164/playurl?%s&programid=%s.m3u8"%(urlencode(params), self.chname)
         print("  {0: <20}{1:}".format(self.extinfo[4], link))
         channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
         self.link = link
