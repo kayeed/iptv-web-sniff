@@ -13,6 +13,37 @@ class migu_live(web_live):
 
         web_live.__init__(self, chname, request_info, extinfo, referer, logger)
 
+    def __probe_high_resolution(self, link):
+
+        orig_link = link
+        if '350/' in orig_link:
+            link = orig_link.replace('350/','3000/')
+            if self.check_alive(link):
+                return link
+            link = orig_link.replace('350/','2500/')
+            if self.check_alive(link):
+                return link
+            link = orig_link.replace('350/','2000/')
+            if self.check_alive(link):
+                return link
+            link = orig_link.replace('350/','1000/')
+            if self.check_alive(link):
+                return link
+        elif '50/' in orig_link:
+            link = orig_link.replace('50/','57/')
+            if self.check_alive(link):
+                return link
+            link = orig_link.replace('50/','75/')
+            if self.check_alive(link):
+                return link
+            link = orig_link.replace('50/','150/')
+            if self.check_alive(link):
+                return link
+        else:
+            return orig_link
+
+        return orig_link
+
     def sniff_stream(self):
 
         print("probe website %s ......"%(self.website))
@@ -30,34 +61,14 @@ class migu_live(web_live):
                 self.logger.error(info)
                 return None
             link = info["body"]["urlInfo"]["url"]
-            #link = link.replace('/1200/','/2500/')
-            #link = link.replace('/1500/','/3000/')
-            #link = link.replace('/51/','/57/')
-            #link = link.replace('/350/','/3000/')
+
             link = link.replace('/2018ocn/','/2018/ocn/')
             link = link.replace('ws450/','ws2000/')
+
             u = urlparse(link)
             result = u._replace(netloc='live.hcs.cmvideo.cn')
             link = urlunparse(result)
-            link_orig = link
-            link = link.replace('350/','3000/')
-            if not self.check_alive(link):
-                link = link_orig
-            link = link.replace('350/','2500/')
-            if not self.check_alive(link):
-                link = link_orig
-            link = link.replace('350/','2000/')
-            if not self.check_alive(link):
-                link = link_orig
-            link = link.replace('350/','1000/')
-            if not self.check_alive(link):
-                link = link_orig
-            link = link.replace('50/','150/')
-            if not self.check_alive(link):
-                link = link_orig
-            link = link.replace('50/','57/')
-            if not self.check_alive(link):
-                link = link_orig
+            link = self.__probe_high_resolution(link)
             print("  {0: <20}{1:}".format(self.extinfo[4], link))
             channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
             self.link = link
