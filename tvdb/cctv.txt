@@ -3218,5 +3218,425 @@
             "title": "熹平石经"
         },
         "m3u8": "cctv_909dca4829c1463a808ba441681cbf37.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "f7f18ae55b9147158cb249333128c200",
+        "website": "https://tv.cctv.com/2020/06/05/VIDE5aMXky5ot05wCPgkgPDS200605.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长江行.妙丽巫山",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/06/08/2020060816452815042.jpg",
+            "group-title": "《远方的家》",
+            "title": "长江行.妙丽巫山"
+        },
+        "m3u8": "cctv_f7f18ae55b9147158cb249333128c200.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "cf7607c068d74ff28a4c381aa4b3cda9",
+        "website": "https://tv.cctv.com/2020/06/05/VIDEPdWjCUr2y6M9y5qvXDn9200605.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长沙贡玛国家级自然保护区",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2020/06/08/2020060816595133996.jpg",
+            "group-title": "《远方的家》",
+            "title": "长沙贡玛国家级自然保护区"
+        },
+        "m3u8": "cctv_cf7607c068d74ff28a4c381aa4b3cda9.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "3cea891d15f24a75bde423f2f15d3975",
+        "website": "https://tv.cctv.com/2020/06/07/VIDELBfwtbwMv00SaWCTNmVf200607.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "海子山国家级自然保护区",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2020/06/08/2020060817285040689.jpg",
+            "group-title": "《远方的家》",
+            "title": "海子山国家级自然保护区"
+        },
+        "m3u8": "cctv_3cea891d15f24a75bde423f2f15d3975.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "d92b2caca98a4af2a41742c9cc3ac5f4",
+        "website": "https://tv.cctv.com/2020/06/09/VIDEybJ4xUMzxIucF9A5bVsN200609.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长江行.相逢在长江源",
+            "tvg-logo": "https://p5.img.cctvpic.com/photoworkspace/2020/06/09/2020060915570424243.jpg",
+            "group-title": "《远方的家》",
+            "title": "长江行.相逢在长江源"
+        },
+        "m3u8": "cctv_d92b2caca98a4af2a41742c9cc3ac5f4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "d6dc772855824d9c8db8a8cedeec0554",
+        "website": "https://tv.cctv.com/2020/06/09/VIDENPIXS9M7uaiFmMyStAVF200609.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "楠溪江国家级风景名胜区",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/06/19/2020061917420452972.jpg",
+            "group-title": "《远方的家》",
+            "title": "楠溪江国家级风景名胜区"
+        },
+        "m3u8": "cctv_d6dc772855824d9c8db8a8cedeec0554.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "c93d8eb6e8314790a83c030932c9bc9c",
+        "website": "https://tv.cctv.com/2020/06/09/VIDEtDE1YfLjds4JERSmsgpB200609.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长江行.金沙江边话永胜",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/06/19/2020061911234119240.jpg",
+            "group-title": "《远方的家》",
+            "title": "长江行.金沙江边话永胜"
+        },
+        "m3u8": "cctv_c93d8eb6e8314790a83c030932c9bc9c.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "ee8e79404f6543e399e785d181e9358b",
+        "website": "https://tv.cctv.com/2020/06/09/VIDEXfA4AM9LWXKbDfGHFY3M200609.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "栗子坪国家级自然保护区",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/09/ee8e79404f6543e399e785d181e9358b-1.jpg",
+            "group-title": "《远方的家》",
+            "title": "栗子坪国家级自然保护区"
+        },
+        "m3u8": "cctv_ee8e79404f6543e399e785d181e9358b.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "1276b1dca83e45dba5bbdd5662ee2b5b",
+        "website": "https://tv.cctv.com/2020/06/10/VIDE1DEnk09WR8mWFvSCJSFP200610.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长江行.金沙江畔好地方",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/06/19/2020061910525934624.jpg",
+            "group-title": "《远方的家》",
+            "title": "长江行.金沙江畔好地方"
+        },
+        "m3u8": "cctv_1276b1dca83e45dba5bbdd5662ee2b5b.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "dd64abefc1374d57afee587be33e7dc1",
+        "website": "https://tv.cctv.com/2020/06/10/VIDES7lNxS8140UQFmHxEezI200610.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "金佛山国家级自然保护区",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/09/dd64abefc1374d57afee587be33e7dc1-1.jpg",
+            "group-title": "《远方的家》",
+            "title": "金佛山国家级自然保护区"
+        },
+        "m3u8": "cctv_dd64abefc1374d57afee587be33e7dc1.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "63b05b84171f4d4793d2c2f6b3df997c",
+        "website": "https://tv.cctv.com/2020/06/10/VIDE0W4Qf39Z6RiGxzdvzuZK200610.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长沙贡玛国家级自然保护区",
+            "tvg-logo": "https://p5.img.cctvpic.com/fmspic/2020/06/09/63b05b84171f4d4793d2c2f6b3df997c-1.jpg",
+            "group-title": "《远方的家》",
+            "title": "长沙贡玛国家级自然保护区"
+        },
+        "m3u8": "cctv_63b05b84171f4d4793d2c2f6b3df997c.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "7dcacb70e90a4c3e82ef5a265b37f64b",
+        "website": "https://tv.cctv.com/2020/06/10/VIDECnqu28QBQvwGcpg8l0UC200610.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长江行.金沙江：探秘香格里拉",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/06/19/2020061910082164453.jpg",
+            "group-title": "《远方的家》",
+            "title": "长江行.金沙江：探秘香格里拉"
+        },
+        "m3u8": "cctv_7dcacb70e90a4c3e82ef5a265b37f64b.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "4e0a099e12314e68a13b0035c5c0b1ca",
+        "website": "https://tv.cctv.com/2020/06/10/VIDEsWLlvbE0TwOSPaQ7uOro200610.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长江行.金沙江：情系纳帕海",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/06/17/2020061717395173565.jpg",
+            "group-title": "《远方的家》",
+            "title": "长江行.金沙江：情系纳帕海"
+        },
+        "m3u8": "cctv_4e0a099e12314e68a13b0035c5c0b1ca.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "fc460abd998a45eebe00a45b5bc132f0",
+        "website": "https://tv.cctv.com/2020/06/10/VIDEltn9kK1CO3wVOZbUVbWk200610.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长江行.金沙江水润丽江",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/06/17/2020061717020718165.jpg",
+            "group-title": "《远方的家》",
+            "title": "长江行.金沙江水润丽江"
+        },
+        "m3u8": "cctv_fc460abd998a45eebe00a45b5bc132f0.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "ce5053b1725c4491b70eab7d047c5ac6",
+        "website": "https://tv.cctv.com/2020/06/10/VIDEOYP9wl3pxNxlcwGrUiOS200610.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长江行.卓克河：穿越四季",
+            "tvg-logo": "https://p5.img.cctvpic.com/photoworkspace/2020/06/11/2020061111382485789.jpg",
+            "group-title": "《远方的家》",
+            "title": "长江行.卓克河：穿越四季"
+        },
+        "m3u8": "cctv_ce5053b1725c4491b70eab7d047c5ac6.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "aa18e9d1e5c0489b9fcfa988828c686b",
+        "website": "https://tv.cctv.com/2020/06/11/VIDEIbjZ7xtALBuYSp0ngxli200611.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长江行.古韵夔州",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/06/19/2020061914565892627.jpg",
+            "group-title": "《远方的家》",
+            "title": "长江行.古韵夔州"
+        },
+        "m3u8": "cctv_aa18e9d1e5c0489b9fcfa988828c686b.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "bcb1987804204d8ca806db4a49bd2fb2",
+        "website": "https://tv.cctv.com/2020/06/12/VIDEvunxnwOHvIbkOhBdAcdh200612.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "厦门海洋珍稀物种国家自然保护区",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/11/bcb1987804204d8ca806db4a49bd2fb2-1.jpg",
+            "group-title": "《远方的家》",
+            "title": "厦门海洋珍稀物种国家自然保护区"
+        },
+        "m3u8": "cctv_bcb1987804204d8ca806db4a49bd2fb2.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "657560c18f52425d901976e7684fba1f",
+        "website": "https://tv.cctv.com/2020/06/14/VIDE5g8zLxGZmTb34T9n2htj200614.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "稻城亚丁国家级自然保护区",
+            "tvg-logo": "https://p1.img.cctvpic.com/fmspic/2020/06/13/657560c18f52425d901976e7684fba1f-1.jpg",
+            "group-title": "《远方的家》",
+            "title": "稻城亚丁国家级自然保护区"
+        },
+        "m3u8": "cctv_657560c18f52425d901976e7684fba1f.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "9870dfffd1dc40b0907a21511a775146",
+        "website": "https://tv.cctv.com/2020/06/14/VIDEuHLL1AitFimbcUVE3Hcu200614.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长江行.藏乡尼西",
+            "tvg-logo": "https://p4.img.cctvpic.com/photoworkspace/2020/06/19/2020061915560241933.jpg",
+            "group-title": "《远方的家》",
+            "title": "长江行.藏乡尼西"
+        },
+        "m3u8": "cctv_9870dfffd1dc40b0907a21511a775146.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "4af4a311d50a435e93e4094fb3905246",
+        "website": "https://tv.cctv.com/2020/06/14/VIDE6BJ2hqY1A7CAqa28H5NC200614.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "盱眙铁山寺国家森林公园",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/14/4af4a311d50a435e93e4094fb3905246-1.jpg",
+            "group-title": "《远方的家》",
+            "title": "盱眙铁山寺国家森林公园"
+        },
+        "m3u8": "cctv_4af4a311d50a435e93e4094fb3905246.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "edb2b9c6837a4de7ae0d9b5da63cbd56",
+        "website": "https://tv.cctv.com/2020/06/15/VIDE88XZNST2UMRKIya9ilf1200615.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "厦门珍稀海洋物种国家级自然保护区",
+            "tvg-logo": "https://p5.img.cctvpic.com/fmspic/2020/06/12/edb2b9c6837a4de7ae0d9b5da63cbd56-1.jpg",
+            "group-title": "《远方的家》",
+            "title": "厦门珍稀海洋物种国家级自然保护区"
+        },
+        "m3u8": "cctv_edb2b9c6837a4de7ae0d9b5da63cbd56.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "5a38c54af2d44a928164710f64e0594a",
+        "website": "https://tv.cctv.com/2020/06/16/VIDEoEMaDkVHFhOzBNMURYZl200616.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "西藏类乌齐马鹿国家级自然保护区",
+            "tvg-logo": "https://p1.img.cctvpic.com/fmspic/2020/06/15/5a38c54af2d44a928164710f64e0594a-1.jpg",
+            "group-title": "《远方的家》",
+            "title": "西藏类乌齐马鹿国家级自然保护区"
+        },
+        "m3u8": "cctv_5a38c54af2d44a928164710f64e0594a.m3u8"
     }
 ]
