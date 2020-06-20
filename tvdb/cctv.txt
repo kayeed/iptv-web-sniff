@@ -302,8 +302,28 @@
     {
         "active": 1,
         "plugin": "cctv_live",
-        "channel": "5ef3a7ab95984c6eb2b7aaca77a26eac",
-        "website": "https://tv.cctv.com/2020/05/29/VIDEwlRuJXN8tLCuTCj8lDuD200529.shtml",
+        "channel": "73c437874a0c447dbfe6d7467d4a6e64",
+        "website": "https://tv.cctv.com/2020/06/15/VIDE3gXQHlt46XiYFMjnVqM4200615.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "贵州",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/15/73c437874a0c447dbfe6d7467d4a6e64-1450.jpg",
+            "group-title": "《航拍中国第三季》",
+            "title": "贵州"
+        },
+        "m3u8": "cctv_73c437874a0c447dbfe6d7467d4a6e64.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "0263fc1d530d4b25bbc9e0ede600c7e4",
+        "website": "https://tv.cctv.com/2020/06/15/VIDEkbj5u6gAwfKtLh10d0XX200615.shtml",
         "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
@@ -313,11 +333,11 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "山东",
-            "tvg-logo": "https://p1.img.cctvpic.com/fmspic/2020/05/29/5ef3a7ab95984c6eb2b7aaca77a26eac-1450.jpg",
+            "tvg-logo": "https://p1.img.cctvpic.com/fmspic/2020/06/15/0263fc1d530d4b25bbc9e0ede600c7e4-1450.jpg",
             "group-title": "《航拍中国第三季》",
             "title": "山东"
         },
-        "m3u8": "cctv_5ef3a7ab95984c6eb2b7aaca77a26eac.m3u8"
+        "m3u8": "cctv_0263fc1d530d4b25bbc9e0ede600c7e4.m3u8"
     },
     {
         "active": 1,
@@ -342,8 +362,8 @@
     {
         "active": 1,
         "plugin": "cctv_live",
-        "channel": "f1609a418f444f1ca0f9b8441d7a49fe",
-        "website": "https://tv.cctv.com/2020/05/26/VIDEH0Pf9P4JWucCB3Zi1Gee200526.shtml",
+        "channel": "4c0d9387b7514640bc9fceee79257be4",
+        "website": "https://tv.cctv.com/2020/06/15/VIDEmGXOEgwV8c5tKGik4dvq200615.shtml",
         "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
@@ -353,17 +373,17 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "山西",
-            "tvg-logo": "https://p2.img.cctvpic.com/fmspic/2020/05/26/f1609a418f444f1ca0f9b8441d7a49fe-2966.jpg",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/15/4c0d9387b7514640bc9fceee79257be4-2969.jpg",
             "group-title": "《航拍中国第三季》",
             "title": "山西"
         },
-        "m3u8": "cctv_f1609a418f444f1ca0f9b8441d7a49fe.m3u8"
+        "m3u8": "cctv_4c0d9387b7514640bc9fceee79257be4.m3u8"
     },
     {
         "active": 1,
         "plugin": "cctv_live",
-        "channel": "7736ba0a79a94bdb83abef7ca0843c35",
-        "website": "https://tv.cctv.com/2020/05/27/VIDEcGBgeEiiLNxF279LrTQ3200527.shtml",
+        "channel": "ad1e94a68cb440fd98317cc3aa7f4f31",
+        "website": "https://tv.cctv.com/2020/06/15/VIDE4AvHz788nEtaczaRQXRM200615.shtml",
         "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
@@ -373,17 +393,17 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "吉林",
-            "tvg-logo": "https://p2.img.cctvpic.com/fmspic/2020/05/27/7736ba0a79a94bdb83abef7ca0843c35-1454.jpg",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/15/ad1e94a68cb440fd98317cc3aa7f4f31-1450.jpg",
             "group-title": "《航拍中国第三季》",
             "title": "吉林"
         },
-        "m3u8": "cctv_7736ba0a79a94bdb83abef7ca0843c35.m3u8"
+        "m3u8": "cctv_ad1e94a68cb440fd98317cc3aa7f4f31.m3u8"
     },
     {
         "active": 1,
         "plugin": "cctv_live",
-        "channel": "f5d8f71d90dd480599c0a36a26db3101",
-        "website": "https://tv.cctv.com/2020/05/29/VIDEY1zlYOlUFGHOQo1ywT07200529.shtml",
+        "channel": "18a8a559464448dbaf60d33913e09aea",
+        "website": "https://tv.cctv.com/2020/06/15/VIDE84NUIQocYwuS2RgV0i77200615.shtml",
         "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
@@ -393,17 +413,17 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "湖南",
-            "tvg-logo": "https://p3.img.cctvpic.com/fmspic/2020/05/29/f5d8f71d90dd480599c0a36a26db3101-2969.jpg",
+            "tvg-logo": "https://p1.img.cctvpic.com/fmspic/2020/06/15/18a8a559464448dbaf60d33913e09aea-1450.jpg",
             "group-title": "《航拍中国第三季》",
             "title": "湖南"
         },
-        "m3u8": "cctv_f5d8f71d90dd480599c0a36a26db3101.m3u8"
+        "m3u8": "cctv_18a8a559464448dbaf60d33913e09aea.m3u8"
     },
     {
         "active": 1,
         "plugin": "cctv_live",
-        "channel": "a677ef50dc0f43c18f4ce0c53cdc8795",
-        "website": "https://tv.cctv.com/2020/05/29/VIDEnA8xSaGy5cTnfy9CmCci200529.shtml",
+        "channel": "2f1976058d334d3b9e432de9e0ddc8e0",
+        "website": "https://tv.cctv.com/2020/06/15/VIDEbMUOCDCflzPN6Kr05N73200615.shtml",
         "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
@@ -413,11 +433,11 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "河北",
-            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/05/29/a677ef50dc0f43c18f4ce0c53cdc8795-1450.jpg",
+            "tvg-logo": "https://p3.img.cctvpic.com/fmspic/2020/06/15/2f1976058d334d3b9e432de9e0ddc8e0-1450.jpg",
             "group-title": "《航拍中国第三季》",
             "title": "河北"
         },
-        "m3u8": "cctv_a677ef50dc0f43c18f4ce0c53cdc8795.m3u8"
+        "m3u8": "cctv_2f1976058d334d3b9e432de9e0ddc8e0.m3u8"
     },
     {
         "active": 1,
@@ -438,26 +458,6 @@
             "title": "宁夏"
         },
         "m3u8": "cctv_163c971a8ec44f0ba5dd1dc3ddffb8d7.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "cctv_live",
-        "channel": "73c437874a0c447dbfe6d7467d4a6e64",
-        "website": "https://tv.cctv.com/2020/06/15/VIDE3gXQHlt46XiYFMjnVqM4200615.shtml",
-        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "贵州",
-            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/15/73c437874a0c447dbfe6d7467d4a6e64-1450.jpg",
-            "group-title": "《航拍中国第三季》",
-            "title": "贵州"
-        },
-        "m3u8": "cctv_73c437874a0c447dbfe6d7467d4a6e64.m3u8"
     },
     {
         "active": 1,
@@ -2018,6 +2018,126 @@
             "title": "秦岭系列.鸟儿在秦岭"
         },
         "m3u8": "cctv_dcb96b408c9148fca250f71eb25a245c.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "6f2bbecc1d3b43ffb4f2805648a069de",
+        "website": "https://tv.cctv.com/2020/06/16/VIDEsXqI4OXQWsKYdPeu4AcQ200616.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "呼伦湖",
+            "tvg-logo": "https://p5.img.cctvpic.com/photoworkspace/2020/06/17/2020061710500395861.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "呼伦贝尔系列.呼伦湖"
+        },
+        "m3u8": "cctv_6f2bbecc1d3b43ffb4f2805648a069de.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "ca8b1f00964b4afb83fde73caf3a2a80",
+        "website": "https://tv.cctv.com/2020/06/17/VIDESKILU01HVdP3Xlv8USFs200617.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "助力飞翔",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/06/17/2020061710405013228.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "呼伦贝尔系列.助力飞翔"
+        },
+        "m3u8": "cctv_ca8b1f00964b4afb83fde73caf3a2a80.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "bc2eb4295b4942bda3a5443b3801b5cf",
+        "website": "https://tv.cctv.com/2020/06/18/VIDE0FaKoYCHeEqejNFALumu200618.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "抗盐先锋",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/06/18/2020061815594652581.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "江苏盐城系列.抗盐先锋"
+        },
+        "m3u8": "cctv_bc2eb4295b4942bda3a5443b3801b5cf.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "1fab3be7f78b46f3a2a28fc0ec3fb82a",
+        "website": "https://tv.cctv.com/2020/06/19/VIDEh2kWCKw5WO0V272MDZUN200619.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "鸻步探戈",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/06/19/2020061909153711283.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "江苏盐城系列.鸻步探戈"
+        },
+        "m3u8": "cctv_1fab3be7f78b46f3a2a28fc0ec3fb82a.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "4799fc4337414308ac19aa8c01bd604e",
+        "website": "https://tv.cctv.com/2020/06/19/VIDEtrTJWgUVb2qwWukPdZ1p200619.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "伴竹而生",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/06/19/2020061915235739095.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "秦岭系列.伴竹而生"
+        },
+        "m3u8": "cctv_4799fc4337414308ac19aa8c01bd604e.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "1c468a0725e948fd8e6548e0f70758ea",
+        "website": "https://tv.cctv.com/2020/06/20/VIDEGl5645ALGD1l8lP7jHlG200620.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "奇侠跳鱼",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/20/1c468a0725e948fd8e6548e0f70758ea-1.jpg",
+            "group-title": "《美丽中国自然》",
+            "title": "江苏盐城系列.奇侠跳鱼"
+        },
+        "m3u8": "cctv_1c468a0725e948fd8e6548e0f70758ea.m3u8"
     },
     {
         "active": 1,
