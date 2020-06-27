@@ -30,7 +30,6 @@ class huya_live(web_live):
             self.logger.error(err)
             return None
 
-        print(response.text)
         response.encoding = 'utf-8'
         find = re.findall(r'liveLineUrl = "([\s\S]*?)";', response.text)
         if find:
