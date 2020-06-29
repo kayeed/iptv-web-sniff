@@ -1,5 +1,6 @@
 from sniff.web_live import web_live, is_url
 
+from urllib.parse import urlencode, urlparse, urlunparse, unquote
 import subprocess
 import requests
 import random
@@ -34,7 +35,30 @@ class huya_live(web_live):
         find = re.findall(r'liveLineUrl = "([\s\S]*?)";', response.text)
         if find:
             link = "https:" + find[0].replace("\/", "/")
-            link = link.replace("&&", "&")
+            u = urlparse(unquote(link))
+            path = u.path.split("/")[-1].replace(".m3u8", "")
+            path = path.replace(".flv", "")
+            params = u.query.split("&")
+            data = {}
+            for item in params:
+                if item != "":
+                    k,v = item.split("=", 1)
+                    data[k] = v
+            t = 0
+            epoch = int(10000*time.time() + 10000*random.random())
+            data["u"] = t
+            data["seqid"] = epoch
+
+            msg = base64.b64decode(data["fm"]).decode()
+            msg = msg.split("_")[0]
+            text = "%s_%d_%s_%d_%s"%(msg, t, path, epoch, data["wsTime"])
+            secret = self.md5(text)
+            data["wsSecret"] = secret
+            del data["fm"]
+
+            query = urlencode(data)
+            result = u._replace(query=query)
+            link = urlunparse(result)
             return link
         else:
             self.logger.error(response.text)
