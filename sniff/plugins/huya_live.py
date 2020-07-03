@@ -45,7 +45,7 @@ class huya_live(web_live):
                     k,v = item.split("=", 1)
                     data[k] = v
             t = 0
-            epoch = int(10000*time.time() + 10000*random.random())
+            epoch = int(10000*time.time()*1000 + 10000*random.random())
             data["u"] = t
             data["seqid"] = epoch
 
