@@ -71,6 +71,19 @@ class web_live:
         hl = hashlib.md5(input.encode(encoding="utf-8"))
         return hl.hexdigest()
 
+    def http_redirect(self, link):
+
+        try:
+            response = requests.get(link, headers=self.headers, allow_redirects=False)
+            response.raise_for_status()
+        except requests.exceptions.RequestException as err:
+            self.logger.error(err)
+            return link
+
+        if response.status_code == 301 or response.status_code == 302:
+            link = response.headers["Location"]
+        return link
+
     def sniff_m3u8_file(self, m3u8file):
 
         if self.link == "": return

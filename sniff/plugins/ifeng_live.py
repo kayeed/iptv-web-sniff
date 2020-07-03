@@ -38,6 +38,7 @@ class ifeng_live(web_live):
                     epoch = "%x"%int(time.time()+1800)
                     input = "obb9Lxyv5C"+livepath+epoch
                     link = "%s?txSecret=%s&txTime=%s"%(liveurl, self.md5(input), epoch)
+                    link = self.http_redirect(link)
                     print("  {0: <20}{1:}".format(self.extinfo[4], link))
                     channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
                     self.link = link
