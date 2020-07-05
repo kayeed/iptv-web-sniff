@@ -1,0 +1,842 @@
+[
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000266303",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000266303.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV4K",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",
+            "group-title": "央视频",
+            "title": "CCTV4K"
+        },
+        "m3u8": "ysp_2000266303.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000210103",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000210103.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV1",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
+            "group-title": "央视频",
+            "title": "CCTV1"
+        },
+        "m3u8": "ysp_2000210103.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000203603",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000203603.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV2",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",
+            "group-title": "央视频",
+            "title": "CCTV2"
+        },
+        "m3u8": "ysp_2000203603.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000203803",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000203803.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV3",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",
+            "group-title": "央视频",
+            "title": "CCTV3"
+        },
+        "m3u8": "ysp_2000203803.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000204803",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000204803.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV4",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",
+            "group-title": "央视频",
+            "title": "CCTV4"
+        },
+        "m3u8": "ysp_2000204803.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000205103",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000205103.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV5",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",
+            "group-title": "央视频",
+            "title": "CCTV5"
+        },
+        "m3u8": "ysp_2000205103.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000204503",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000204503.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV5+",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",
+            "group-title": "央视频",
+            "title": "CCTV5+"
+        },
+        "m3u8": "ysp_2000204503.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000203303",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000203303.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV6",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",
+            "group-title": "央视频",
+            "title": "CCTV6"
+        },
+        "m3u8": "ysp_2000203303.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000510003",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000510003.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV7",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",
+            "group-title": "央视频",
+            "title": "CCTV7"
+        },
+        "m3u8": "ysp_2000510003.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000203903",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000203903.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV8",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",
+            "group-title": "央视频",
+            "title": "CCTV8"
+        },
+        "m3u8": "ysp_2000203903.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000499403",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000499403.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV9",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",
+            "group-title": "央视频",
+            "title": "CCTV9"
+        },
+        "m3u8": "ysp_2000499403.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000203503",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000203503.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV10",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",
+            "group-title": "央视频",
+            "title": "CCTV10"
+        },
+        "m3u8": "ysp_2000203503.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000204103",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000204103.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV11",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",
+            "group-title": "央视频",
+            "title": "CCTV11"
+        },
+        "m3u8": "ysp_2000204103.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000202603",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000202603.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV12",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",
+            "group-title": "央视频",
+            "title": "CCTV12"
+        },
+        "m3u8": "ysp_2000202603.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000204603",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000204603.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV13",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",
+            "group-title": "央视频",
+            "title": "CCTV13"
+        },
+        "m3u8": "ysp_2000204603.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000204403",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000204403.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV14",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",
+            "group-title": "央视频",
+            "title": "CCTV14"
+        },
+        "m3u8": "ysp_2000204403.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000205003",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000205003.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV15",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",
+            "group-title": "央视频",
+            "title": "CCTV15"
+        },
+        "m3u8": "ysp_2000205003.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000204203",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000204203.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV17",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",
+            "group-title": "央视频",
+            "title": "CCTV17"
+        },
+        "m3u8": "ysp_2000204203.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2001656803",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2001656803.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CGTN",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",
+            "group-title": "央视频",
+            "title": "CGTN"
+        },
+        "m3u8": "ysp_2001656803.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000296203",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000296203.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "湖南卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/hunan.png",
+            "group-title": "央视频",
+            "title": "湖南卫视"
+        },
+        "m3u8": "ysp_2000296203.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000292403",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000292403.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "东方卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/dongfang.png",
+            "group-title": "央视频",
+            "title": "东方卫视"
+        },
+        "m3u8": "ysp_2000292403.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000293903",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000293903.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "黑龙江卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",
+            "group-title": "央视频",
+            "title": "黑龙江卫视"
+        },
+        "m3u8": "ysp_2000293903.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000292703",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000292703.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "广东卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/guangdong.png",
+            "group-title": "央视频",
+            "title": "广东卫视"
+        },
+        "m3u8": "ysp_2000292703.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000292203",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000292203.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "深圳卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",
+            "group-title": "央视频",
+            "title": "深圳卫视"
+        },
+        "m3u8": "ysp_2000292203.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000295603",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000295603.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "江苏卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",
+            "group-title": "央视频",
+            "title": "江苏卫视"
+        },
+        "m3u8": "ysp_2000295603.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000295503",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000295503.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "浙江卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+            "group-title": "央视频",
+            "title": "浙江卫视"
+        },
+        "m3u8": "ysp_2000295503.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000295603",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000295603.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "江苏卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",
+            "group-title": "央视频",
+            "title": "江苏卫视"
+        },
+        "m3u8": "ysp_2000295603.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000292203",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000292203.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "深圳卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",
+            "group-title": "央视频",
+            "title": "深圳卫视"
+        },
+        "m3u8": "ysp_2000292203.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000272103",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000272103.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "北京卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/beijing.png",
+            "group-title": "央视频",
+            "title": "北京卫视"
+        },
+        "m3u8": "ysp_2000272103.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000291503",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000291503.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "海南卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/lvyou.png",
+            "group-title": "央视频",
+            "title": "海南卫视"
+        },
+        "m3u8": "ysp_2000291503.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000294803",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000294803.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "山东卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/shandong.png",
+            "group-title": "央视频",
+            "title": "山东卫视"
+        },
+        "m3u8": "ysp_2000294803.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000294103",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000294103.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "江西卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",
+            "group-title": "央视频",
+            "title": "江西卫视"
+        },
+        "m3u8": "ysp_2000294103.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000294503",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000294503.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "湖北卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/hubei.png",
+            "group-title": "央视频",
+            "title": "湖北卫视"
+        },
+        "m3u8": "ysp_2000294503.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000296103",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000296103.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "河南卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/henan.png",
+            "group-title": "央视频",
+            "title": "河南卫视"
+        },
+        "m3u8": "ysp_2000296103.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000293403",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000293403.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "河北卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/hebei.png",
+            "group-title": "央视频",
+            "title": "河北卫视"
+        },
+        "m3u8": "ysp_2000293403.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000293303",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000293303.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "贵州卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/guizhou.png",
+            "group-title": "央视频",
+            "title": "贵州卫视"
+        },
+        "m3u8": "ysp_2000293303.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000292503",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000292503.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "东南卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/dongnan.png",
+            "group-title": "央视频",
+            "title": "东南卫视"
+        },
+        "m3u8": "ysp_2000292503.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000294203",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000294203.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "广西卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/guangxi.png",
+            "group-title": "央视频",
+            "title": "广西卫视"
+        },
+        "m3u8": "ysp_2000294203.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000295003",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000295003.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "四川卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/sichuan.png",
+            "group-title": "央视频",
+            "title": "四川卫视"
+        },
+        "m3u8": "ysp_2000295003.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000281303",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000281303.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "辽宁卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/liaoning.png",
+            "group-title": "央视频",
+            "title": "辽宁卫视"
+        },
+        "m3u8": "ysp_2000281303.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000297803",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000297803.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "重庆卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/chongqing.png",
+            "group-title": "央视频",
+            "title": "重庆卫视"
+        },
+        "m3u8": "ysp_2000297803.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "ysp_live",
+        "channel": "2000298003",
+        "website": "http://m.iptv345.com",
+        "liveapi": "http://107.148.240.185:13164/v/cctv.php?id=2000298003.m3u8",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://m.iptv345.com"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "安徽卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/anhui.png",
+            "group-title": "央视频",
+            "title": "安徽卫视"
+        },
+        "m3u8": "ysp_2000298003.m3u8"
+    }
+]
