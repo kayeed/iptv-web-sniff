@@ -43,7 +43,7 @@
         "active": 1,
         "plugin": "cctv_live",
         "channel": "3e5279df88b44cb7933157330f967490",
-        "website": "http://tv.cctv.com/2019/08/21/VIDEn3kCu4rYhl8lU0ufeEdB190821.shtml",
+        "website": "https://tv.cctv.com/2019/08/21/VIDEn3kCu4rYhl8lU0ufeEdB190821.shtml",
         "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
@@ -183,7 +183,7 @@
         "active": 1,
         "plugin": "cctv_live",
         "channel": "d907ef756138493e9fe5b35b4ab69642",
-        "website": "http://tv.cctv.com/2019/07/04/VIDEAPudliR3q5YRoRudOriq190704.shtml",
+        "website": "https://tv.cctv.com/2019/07/04/VIDEAPudliR3q5YRoRudOriq190704.shtml",
         "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
@@ -203,7 +203,7 @@
         "active": 1,
         "plugin": "cctv_live",
         "channel": "8ba642c716404cf59a87f20ef9fc54a3",
-        "website": "http://tv.cctv.com/2019/07/04/VIDEb7MAc4K9LMBIwpN1a3o1190704.shtml",
+        "website": "https://tv.cctv.com/2019/07/04/VIDEb7MAc4K9LMBIwpN1a3o1190704.shtml",
         "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
@@ -2133,7 +2133,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "奇侠跳鱼",
-            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/20/1c468a0725e948fd8e6548e0f70758ea-1.jpg",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2020/06/22/2020062210060344003.jpg",
             "group-title": "《美丽中国自然》",
             "title": "江苏盐城系列.奇侠跳鱼"
         },
@@ -2723,7 +2723,7 @@
         "active": 1,
         "plugin": "cctv_live",
         "channel": "b25a20799b934b6cb6bc2e10bea830da",
-        "website": "http://tv.cctv.com/2019/09/16/VIDEYZzp0VtIEDgcnp6Px5WC190916.shtml",
+        "website": "https://tv.cctv.com/2019/09/16/VIDEYZzp0VtIEDgcnp6Px5WC190916.shtml",
         "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
         "headers": {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
@@ -3353,7 +3353,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "栗子坪国家级自然保护区",
-            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/09/ee8e79404f6543e399e785d181e9358b-1.jpg",
+            "tvg-logo": "https://p5.img.cctvpic.com/photoworkspace/2020/06/22/2020062216324795354.jpg",
             "group-title": "《远方的家》",
             "title": "栗子坪国家级自然保护区"
         },
@@ -3393,31 +3393,11 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "金佛山国家级自然保护区",
-            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/09/dd64abefc1374d57afee587be33e7dc1-1.jpg",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2020/06/22/2020062215082715371.jpg",
             "group-title": "《远方的家》",
             "title": "金佛山国家级自然保护区"
         },
         "m3u8": "cctv_dd64abefc1374d57afee587be33e7dc1.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "cctv_live",
-        "channel": "63b05b84171f4d4793d2c2f6b3df997c",
-        "website": "https://tv.cctv.com/2020/06/10/VIDE0W4Qf39Z6RiGxzdvzuZK200610.shtml",
-        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "长沙贡玛国家级自然保护区",
-            "tvg-logo": "https://p5.img.cctvpic.com/fmspic/2020/06/09/63b05b84171f4d4793d2c2f6b3df997c-1.jpg",
-            "group-title": "《远方的家》",
-            "title": "长沙贡玛国家级自然保护区"
-        },
-        "m3u8": "cctv_63b05b84171f4d4793d2c2f6b3df997c.m3u8"
     },
     {
         "active": 1,
@@ -3533,7 +3513,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "厦门海洋珍稀物种国家自然保护区",
-            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/11/bcb1987804204d8ca806db4a49bd2fb2-1.jpg",
+            "tvg-logo": "https://p4.img.cctvpic.com/photoworkspace/2020/06/22/2020062217285224947.jpg",
             "group-title": "《远方的家》",
             "title": "厦门海洋珍稀物种国家自然保护区"
         },
@@ -3553,7 +3533,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "稻城亚丁国家级自然保护区",
-            "tvg-logo": "https://p1.img.cctvpic.com/fmspic/2020/06/13/657560c18f52425d901976e7684fba1f-1.jpg",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/06/23/2020062311465582417.jpg",
             "group-title": "《远方的家》",
             "title": "稻城亚丁国家级自然保护区"
         },
@@ -3582,46 +3562,6 @@
     {
         "active": 1,
         "plugin": "cctv_live",
-        "channel": "4af4a311d50a435e93e4094fb3905246",
-        "website": "https://tv.cctv.com/2020/06/14/VIDE6BJ2hqY1A7CAqa28H5NC200614.shtml",
-        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "盱眙铁山寺国家森林公园",
-            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/14/4af4a311d50a435e93e4094fb3905246-1.jpg",
-            "group-title": "《远方的家》",
-            "title": "盱眙铁山寺国家森林公园"
-        },
-        "m3u8": "cctv_4af4a311d50a435e93e4094fb3905246.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "cctv_live",
-        "channel": "edb2b9c6837a4de7ae0d9b5da63cbd56",
-        "website": "https://tv.cctv.com/2020/06/15/VIDE88XZNST2UMRKIya9ilf1200615.shtml",
-        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "厦门珍稀海洋物种国家级自然保护区",
-            "tvg-logo": "https://p5.img.cctvpic.com/fmspic/2020/06/12/edb2b9c6837a4de7ae0d9b5da63cbd56-1.jpg",
-            "group-title": "《远方的家》",
-            "title": "厦门珍稀海洋物种国家级自然保护区"
-        },
-        "m3u8": "cctv_edb2b9c6837a4de7ae0d9b5da63cbd56.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "cctv_live",
         "channel": "5a38c54af2d44a928164710f64e0594a",
         "website": "https://tv.cctv.com/2020/06/16/VIDEoEMaDkVHFhOzBNMURYZl200616.shtml",
         "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
@@ -3633,10 +3573,110 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "西藏类乌齐马鹿国家级自然保护区",
-            "tvg-logo": "https://p1.img.cctvpic.com/fmspic/2020/06/15/5a38c54af2d44a928164710f64e0594a-1.jpg",
+            "tvg-logo": "https://p4.img.cctvpic.com/photoworkspace/2020/06/23/2020062317200420573.jpg",
             "group-title": "《远方的家》",
             "title": "西藏类乌齐马鹿国家级自然保护区"
         },
         "m3u8": "cctv_5a38c54af2d44a928164710f64e0594a.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "2686307919514577a3bea62e5c647f1c",
+        "website": "https://tv.cctv.com/2020/06/20/VIDEptGcfGggts2dqBvXMyt4200620.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长江行.金沙江河谷的春天",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/06/22/2020062211512165080.jpg",
+            "group-title": "《远方的家》",
+            "title": "长江行.金沙江河谷的春天"
+        },
+        "m3u8": "cctv_2686307919514577a3bea62e5c647f1c.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "9a2509279b134f90b98dda7ade62237d",
+        "website": "https://tv.cctv.com/2020/06/25/VIDEJPYwiEOybHcSdRQ4DQ9N200625.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "黑龙江小北湖国家级自然保护区",
+            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/25/9a2509279b134f90b98dda7ade62237d-1.jpg",
+            "group-title": "《远方的家》",
+            "title": "黑龙江小北湖国家级自然保护区"
+        },
+        "m3u8": "cctv_9a2509279b134f90b98dda7ade62237d.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "e805183686904cbabf175f58ad658430",
+        "website": "https://tv.cctv.com/2020/06/27/VIDE6AWAcWul6Wr7V3NFf81y200627.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长江行.海纳百川大上海",
+            "tvg-logo": "https://p5.img.cctvpic.com/fmspic/2020/06/27/e805183686904cbabf175f58ad658430-1.jpg",
+            "group-title": "《远方的家》",
+            "title": "长江行.海纳百川大上海"
+        },
+        "m3u8": "cctv_e805183686904cbabf175f58ad658430.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "1eca70b79d8747ecb31217119228f1a9",
+        "website": "https://tv.cctv.com/2020/07/02/VIDEYCY2fnAnpUNoaa38MgkG200702.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "厦门珍稀海洋物种国家级自然保护区",
+            "tvg-logo": "https://p4.img.cctvpic.com/photoworkspace/2020/07/06/2020070610521010453.jpg",
+            "group-title": "《远方的家》",
+            "title": "厦门珍稀海洋物种国家级自然保护区"
+        },
+        "m3u8": "cctv_1eca70b79d8747ecb31217119228f1a9.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "8e3632c09e444d02bd2aa129e0bdb687",
+        "website": "https://tv.cctv.com/2020/07/04/VIDE3wPNUbvWg2aDWeTY7pDI200704.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长江行.多元文化",
+            "tvg-logo": "https://p3.img.cctvpic.com/fmspic/2020/07/04/8e3632c09e444d02bd2aa129e0bdb687-1.jpg",
+            "group-title": "《远方的家》",
+            "title": "长江行.多元文化"
+        },
+        "m3u8": "cctv_8e3632c09e444d02bd2aa129e0bdb687.m3u8"
     }
 ]
