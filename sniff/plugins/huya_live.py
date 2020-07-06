@@ -36,8 +36,7 @@ class huya_live(web_live):
         if find:
             link = "https:" + find[0].replace("\/", "/")
             u = urlparse(unquote(link))
-            path = u.path.split("/")[-1].replace(".m3u8", "")
-            path = path.replace(".flv", "")
+            path = re.sub(r'.(flv|m3u8)', '', u.path.split("/")[-1])
             params = u.query.split("&")
             data = {}
             for item in params:
