@@ -3613,7 +3613,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "黑龙江小北湖国家级自然保护区",
-            "tvg-logo": "https://p4.img.cctvpic.com/fmspic/2020/06/25/9a2509279b134f90b98dda7ade62237d-1.jpg",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/07/07/2020070715511481764.jpg",
             "group-title": "《远方的家》",
             "title": "黑龙江小北湖国家级自然保护区"
         },
@@ -3633,7 +3633,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "长江行.海纳百川大上海",
-            "tvg-logo": "https://p5.img.cctvpic.com/fmspic/2020/06/27/e805183686904cbabf175f58ad658430-1.jpg",
+            "tvg-logo": "https://p3.img.cctvpic.com/photoworkspace/2020/07/07/2020070711321749513.jpg",
             "group-title": "《远方的家》",
             "title": "长江行.海纳百川大上海"
         },
@@ -3673,10 +3673,50 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "长江行.多元文化",
-            "tvg-logo": "https://p3.img.cctvpic.com/fmspic/2020/07/04/8e3632c09e444d02bd2aa129e0bdb687-1.jpg",
+            "tvg-logo": "https://p4.img.cctvpic.com/photoworkspace/2020/07/07/2020070715062448389.jpg",
             "group-title": "《远方的家》",
             "title": "长江行.多元文化"
         },
         "m3u8": "cctv_8e3632c09e444d02bd2aa129e0bdb687.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "a57a10fdb92a43cd93486271a948195f",
+        "website": "https://tv.cctv.com/2020/07/08/VIDE9OfzUX6VlXzC6d0Ikh0Z200708.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "盱眙铁山寺国家森林公园",
+            "tvg-logo": "https://p2.img.cctvpic.com/photoworkspace/2020/07/08/2020070810172256570.jpg",
+            "group-title": "《远方的家》",
+            "title": "盱眙铁山寺国家森林公园"
+        },
+        "m3u8": "cctv_a57a10fdb92a43cd93486271a948195f.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cctv_live",
+        "channel": "9883bb538e27494c91a0b8a4feec693c",
+        "website": "https://tv.cctv.com/2020/07/09/VIDEDnvUAYXXUVWHVYk2TXRs200709.shtml",
+        "liveapi": "https://vdn.apps.cntv.cn/api/getIpadVideoInfo.do",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": "http://www.cditv.cn/html/cdrtv/#live"
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "长江行.长江源头沱沱河",
+            "tvg-logo": "https://p1.img.cctvpic.com/photoworkspace/2020/07/09/2020070909510410861.jpg",
+            "group-title": "《远方的家》",
+            "title": "长江行.长江源头沱沱河"
+        },
+        "m3u8": "cctv_9883bb538e27494c91a0b8a4feec693c.m3u8"
     }
 ]
