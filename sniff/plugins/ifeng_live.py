@@ -50,6 +50,9 @@ class ifeng_live(web_live):
             self.logger.error("%s - %s"%(err,response.text))
             return None
 
+    def check_alive(self, uri):
+
+        return False
 
     def sniff_m3u8_file(self, m3u8file):
 
