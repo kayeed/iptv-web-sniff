@@ -18,6 +18,33 @@ class huya_live(web_live):
 
         web_live.__init__(self, chname, request_info, extinfo, referer, logger)
 
+    def __decode_link(self, link):
+
+        u = urlparse(unquote(link))
+        path = re.sub(r'.(flv|m3u8)', '', u.path.split("/")[-1])
+        params = u.query.split("&")
+        data = {}
+        for item in params:
+            if item != "":
+                k,v = item.split("=", 1)
+                data[k] = v
+        t = 0
+        epoch = int(10000*time.time()*1000 + 10000*random.random())
+        data["u"] = t
+        data["seqid"] = epoch
+
+        msg = base64.b64decode(data["fm"]).decode()
+        msg = msg.split("_")[0]
+        text = "%s_%d_%s_%d_%s"%(msg, t, path, epoch, data["wsTime"])
+        secret = self.md5(text)
+        data["wsSecret"] = secret
+        del data["fm"]
+
+        query = urlencode(data)
+        result = u._replace(query=query)
+        link = unquote(urlunparse(result))
+        return link
+
     def __mobile_player(self):
         liveurl = 'https://m.huya.com/' + self.chname
         header = {
@@ -35,30 +62,7 @@ class huya_live(web_live):
         find = re.findall(r'liveLineUrl = "([\s\S]*?)";', response.text)
         if find:
             link = "https:" + find[0].replace("\/", "/")
-            u = urlparse(unquote(link))
-            path = re.sub(r'.(flv|m3u8)', '', u.path.split("/")[-1])
-            params = u.query.split("&")
-            data = {}
-            for item in params:
-                if item != "":
-                    k,v = item.split("=", 1)
-                    data[k] = v
-            t = 0
-            epoch = int(10000*time.time()*1000 + 10000*random.random())
-            data["u"] = t
-            data["seqid"] = epoch
-
-            msg = base64.b64decode(data["fm"]).decode()
-            msg = msg.split("_")[0]
-            text = "%s_%d_%s_%d_%s"%(msg, t, path, epoch, data["wsTime"])
-            secret = self.md5(text)
-            data["wsSecret"] = secret
-            del data["fm"]
-
-            query = urlencode(data)
-            result = u._replace(query=query)
-            link = urlunparse(result)
-            return link
+            return self.__decode_link(link)
         else:
             self.logger.error(response.text)
             return None
@@ -88,8 +92,8 @@ class huya_live(web_live):
             sHlsUrlSuffix = stream_info['sHlsUrlSuffix']
             sHlsAntiCode = stream_info['sHlsAntiCode']
             hls_url = u'{}/{}.{}?{}&t=103'.format(sHlsUrl, sStreamName, sHlsUrlSuffix, sHlsAntiCode)
-            link = self.unescape(hls_url)
-            return link
+            hls_url = hls_url.replace("&amp;", "&")
+            return self.__decode_link(hls_url)
         else:
             self.logger.error(response.text)
             return None
@@ -98,8 +102,8 @@ class huya_live(web_live):
 
         print("probe website %s ......"%(self.website))
 
-        link = self.__mobile_player()
-        #link = self.__desktop_player()
+        #link = self.__mobile_player()
+        link = self.__desktop_player()
         if link:
             print("  {0: <20}{1:}".format(self.extinfo[4], link))
             channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
