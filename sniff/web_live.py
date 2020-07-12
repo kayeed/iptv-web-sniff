@@ -74,7 +74,7 @@ class web_live:
     def http_redirect(self, link):
 
         try:
-            response = requests.get(link, headers=self.headers, allow_redirects=False)
+            response = requests.get(link, headers=self.headers, allow_redirects=False, stream=True)
             response.raise_for_status()
         except requests.exceptions.RequestException as err:
             self.logger.error(err)
