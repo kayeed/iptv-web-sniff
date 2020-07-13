@@ -61,8 +61,9 @@ class iqiyi_live(web_live):
             if info["code"] != "A00000":
                 self.logger.error(info)
                 return None
+            bitrates = ["2000", "2128"]
             for stream in info["data"]["streams"]:
-                if stream["streamFormat"] == "TS" and stream["bitrate"] == "2128":
+                if stream["streamFormat"] == "TS" and stream["bitrate"] in bitrates:
                     link = stream["url"]
                     print("  {0: <20}{1:}".format(self.extinfo[4], link))
                     channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
