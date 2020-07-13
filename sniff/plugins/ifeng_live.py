@@ -14,6 +14,10 @@ class ifeng_live(web_live):
 
         web_live.__init__(self, chname, request_info, extinfo, referer, logger)
 
+    def check_alive(self, uri):
+
+        return False
+
     def sniff_stream(self):
 
         print("probe website %s ......"%(self.website))
@@ -49,10 +53,6 @@ class ifeng_live(web_live):
         except (ValueError, KeyError) as err:
             self.logger.error("%s - %s"%(err,response.text))
             return None
-
-    def check_alive(self, uri):
-
-        return False
 
     def sniff_m3u8_file(self, m3u8file):
 
