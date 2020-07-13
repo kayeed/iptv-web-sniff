@@ -20,29 +20,24 @@ class huya_live(web_live):
 
     def __decode_link(self, link):
 
-        u = urlparse(unquote(link))
-        path = re.sub(r'.(flv|m3u8)', '', u.path.split("/")[-1])
-        params = u.query.split("&")
-        data = {}
-        for item in params:
-            if item != "":
-                k,v = item.split("=", 1)
-                data[k] = v
-        t = 0
-        epoch = int(10000*time.time()*1000 + 10000*random.random())
-        data["u"] = t
-        data["seqid"] = epoch
+        i, b = link.split('?')
+        r = i.split('/')
+        s = re.sub(r'.(flv|m3u8)', '', r[-1])
+        c = b.split('&', 3)
+        c = [i for i in c if i != '']
+        n = {i.split('=')[0]: i.split('=')[1] for i in c}
+        fm = unquote(n['fm'])
+        u = base64.b64decode(fm).decode('utf-8')
+        p = u.split('_')[0]
+        #f = str(int(time.time() * 1e7 + 10000*random.random()))
+        f = str(int(time.time() * 1e7))
+        l = n['wsTime']
+        t = '0'
+        h = '_'.join([p, t, s, f, l])
+        m = self.md5(h)
+        y = c[-1]
+        link = "{}?wsSecret={}&wsTime={}&u={}&seqid={}&{}".format(i, m, l, t, f, y)
 
-        msg = base64.b64decode(data["fm"]).decode()
-        msg = msg.split("_")[0]
-        text = "%s_%d_%s_%d_%s"%(msg, t, path, epoch, data["wsTime"])
-        secret = self.md5(text)
-        data["wsSecret"] = secret
-        del data["fm"]
-
-        query = urlencode(data)
-        result = u._replace(query=query)
-        link = unquote(urlunparse(result))
         return link
 
     def __mobile_player(self):
@@ -97,6 +92,10 @@ class huya_live(web_live):
         else:
             self.logger.error(response.text)
             return None
+
+    def check_alive(self, uri):
+
+        return False
 
     def sniff_stream(self):
 
