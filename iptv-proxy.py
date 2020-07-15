@@ -35,13 +35,16 @@ def iptv_proxy_handler(tvdb, logger):
             parsed_path = parse.urlparse(self.path)
 
             reply_done = False
-            m3u8 = parsed_path.query
+            m3u8 = parsed_path.query.split('|')[0]
             try:
                 live = tv_table[m3u8]
+                print(live.headers)
 
                 link = live.dump_link()
                 if link:
                     self.send_response(301)
+                    for key, value in live.headerslive.headers.items():
+                        if value: self.send_header(key, value)
                     self.send_header('Location', link)
                     self.end_headers()
 
@@ -59,6 +62,8 @@ def iptv_proxy_handler(tvdb, logger):
                 if channel is not None:
                     link = live.dump_link()
                     self.send_response(301)
+                    for key, value in live.headers.items():
+                        if value: self.send_header(key, value)
                     self.send_header('Location', link)
                     self.end_headers()
 
