@@ -38,7 +38,6 @@ def iptv_proxy_handler(tvdb, logger):
             m3u8 = parsed_path.query.split('|')[0]
             try:
                 live = tv_table[m3u8]
-                print(live.headers)
 
                 link = live.dump_link()
                 if link:
