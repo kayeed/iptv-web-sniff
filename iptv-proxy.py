@@ -43,7 +43,7 @@ def iptv_proxy_handler(tvdb, logger):
                 link = live.dump_link()
                 if link:
                     self.send_response(301)
-                    for key, value in live.headerslive.headers.items():
+                    for key, value in live.headers.items():
                         if value: self.send_header(key, value)
                     self.send_header('Location', link)
                     self.end_headers()
