@@ -1,0 +1,1822 @@
+[
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000001",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV1",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-1"
+        },
+        "m3u8": "woniu_10000001.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000002",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV2",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-2"
+        },
+        "m3u8": "woniu_10000002.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000003",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV3",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-3"
+        },
+        "m3u8": "woniu_10000003.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000004",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV4",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-4"
+        },
+        "m3u8": "woniu_10000004.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000006",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV5",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-5"
+        },
+        "m3u8": "woniu_10000006.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000005",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV5+",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-5+"
+        },
+        "m3u8": "woniu_10000005.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000007",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV6",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-6"
+        },
+        "m3u8": "woniu_10000007.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000008",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV7",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-7"
+        },
+        "m3u8": "woniu_10000008.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000009",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV8",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-8"
+        },
+        "m3u8": "woniu_10000009.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000010",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV9",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-9"
+        },
+        "m3u8": "woniu_10000010.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000011",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV10",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-10"
+        },
+        "m3u8": "woniu_10000011.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000060",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV11",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-11"
+        },
+        "m3u8": "woniu_10000060.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000063",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV12",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-12"
+        },
+        "m3u8": "woniu_10000063.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000061",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV13",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-13"
+        },
+        "m3u8": "woniu_10000061.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000064",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV14",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-14"
+        },
+        "m3u8": "woniu_10000064.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000062",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV15",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-15"
+        },
+        "m3u8": "woniu_10000062.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000065",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CCTV17",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",
+            "group-title": "蜗牛TV",
+            "title": "CCTV-17"
+        },
+        "m3u8": "woniu_10000065.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000012",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "云南卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/yunnan.png",
+            "group-title": "蜗牛TV",
+            "title": "云南卫视"
+        },
+        "m3u8": "woniu_10000012.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000013",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "旅游卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/lvyou.png",
+            "group-title": "蜗牛TV",
+            "title": "海南卫视"
+        },
+        "m3u8": "woniu_10000013.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000014",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "西藏卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/xizang.png",
+            "group-title": "蜗牛TV",
+            "title": "西藏卫视"
+        },
+        "m3u8": "woniu_10000014.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000015",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "新疆卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",
+            "group-title": "蜗牛TV",
+            "title": "新疆卫视"
+        },
+        "m3u8": "woniu_10000015.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000016",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "广西卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/guangxi.png",
+            "group-title": "蜗牛TV",
+            "title": "广西卫视"
+        },
+        "m3u8": "woniu_10000016.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000018",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "北京卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/beijing.png",
+            "group-title": "蜗牛TV",
+            "title": "北京卫视高清"
+        },
+        "m3u8": "woniu_10000018.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000019",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "深圳卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",
+            "group-title": "蜗牛TV",
+            "title": "深圳卫视高清"
+        },
+        "m3u8": "woniu_10000019.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000020",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "浙江卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",
+            "group-title": "蜗牛TV",
+            "title": "浙江卫视高清"
+        },
+        "m3u8": "woniu_10000020.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000021",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "江苏卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",
+            "group-title": "蜗牛TV",
+            "title": "江苏卫视高清"
+        },
+        "m3u8": "woniu_10000021.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000022",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "广东卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/guangdong.png",
+            "group-title": "蜗牛TV",
+            "title": "广东卫视高清"
+        },
+        "m3u8": "woniu_10000022.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000023",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "东方卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/dongfang.png",
+            "group-title": "蜗牛TV",
+            "title": "东方卫视高清"
+        },
+        "m3u8": "woniu_10000023.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000024",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "湖北卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/hubei.png",
+            "group-title": "蜗牛TV",
+            "title": "湖北卫视高清"
+        },
+        "m3u8": "woniu_10000024.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000025",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "安徽卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/anhui.png",
+            "group-title": "蜗牛TV",
+            "title": "安徽卫视高清"
+        },
+        "m3u8": "woniu_10000025.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000026",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "辽宁卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/liaoning.png",
+            "group-title": "蜗牛TV",
+            "title": "辽宁卫视高清"
+        },
+        "m3u8": "woniu_10000026.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000027",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "山东卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/shandong.png",
+            "group-title": "蜗牛TV",
+            "title": "山东卫视高清"
+        },
+        "m3u8": "woniu_10000027.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000028",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "黑龙江卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",
+            "group-title": "蜗牛TV",
+            "title": "黑龙江卫视高清"
+        },
+        "m3u8": "woniu_10000028.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000029",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "天津卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/tianjin.png",
+            "group-title": "蜗牛TV",
+            "title": "天津卫视高清"
+        },
+        "m3u8": "woniu_10000029.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000030",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "重庆卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/chongqing.png",
+            "group-title": "蜗牛TV",
+            "title": "重庆卫视高清"
+        },
+        "m3u8": "woniu_10000030.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000031",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "四川卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/sichuan.png",
+            "group-title": "蜗牛TV",
+            "title": "四川卫视高清"
+        },
+        "m3u8": "woniu_10000031.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000032",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "东南卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/dongnan.png",
+            "group-title": "蜗牛TV",
+            "title": "东南卫视高清"
+        },
+        "m3u8": "woniu_10000032.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000033",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "江西卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",
+            "group-title": "蜗牛TV",
+            "title": "江西卫视高清"
+        },
+        "m3u8": "woniu_10000033.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000034",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "河北卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/hebei.png",
+            "group-title": "蜗牛TV",
+            "title": "河北卫视高清"
+        },
+        "m3u8": "woniu_10000034.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000035",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "吉林卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/jilin.png",
+            "group-title": "蜗牛TV",
+            "title": "吉林卫视高清"
+        },
+        "m3u8": "woniu_10000035.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000066",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "山西卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",
+            "group-title": "蜗牛TV",
+            "title": "山西卫视"
+        },
+        "m3u8": "woniu_10000066.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000067",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "河南卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/henan.png",
+            "group-title": "蜗牛TV",
+            "title": "河南卫视"
+        },
+        "m3u8": "woniu_10000067.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000068",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "宁夏卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/ningxia.png",
+            "group-title": "蜗牛TV",
+            "title": "宁夏卫视"
+        },
+        "m3u8": "woniu_10000068.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000069",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "陕西卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/shanxi.png",
+            "group-title": "蜗牛TV",
+            "title": "陕西卫视"
+        },
+        "m3u8": "woniu_10000069.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000070",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "甘肃卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/gansu.png",
+            "group-title": "蜗牛TV",
+            "title": "甘肃卫视"
+        },
+        "m3u8": "woniu_10000070.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000071",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "贵州卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/guizhou.png",
+            "group-title": "蜗牛TV",
+            "title": "贵州卫视"
+        },
+        "m3u8": "woniu_10000071.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000072",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "青海卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/qinghai.png",
+            "group-title": "蜗牛TV",
+            "title": "青海卫视"
+        },
+        "m3u8": "woniu_10000072.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000073",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "内蒙古卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/neimeng.png",
+            "group-title": "蜗牛TV",
+            "title": "内蒙古卫视"
+        },
+        "m3u8": "woniu_10000073.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000017",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "湖南卫视",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/hunan.png",
+            "group-title": "蜗牛TV",
+            "title": "湖南卫视高清"
+        },
+        "m3u8": "woniu_10000017.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000036",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "金鹰卡通",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png",
+            "group-title": "蜗牛TV",
+            "title": "金鹰卡通高清"
+        },
+        "m3u8": "woniu_10000036.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000037",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "湖南教育频道",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "湖南教育频道"
+        },
+        "m3u8": "woniu_10000037.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000038",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "湖南国际频道",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "湖南国际频道"
+        },
+        "m3u8": "woniu_10000038.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000040",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "湖南经视",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "湖南经视高清"
+        },
+        "m3u8": "woniu_10000040.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000041",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "金鹰纪实",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",
+            "group-title": "蜗牛TV",
+            "title": "金鹰纪实高清"
+        },
+        "m3u8": "woniu_10000041.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000042",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "湖南娱乐",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "湖南娱乐高清"
+        },
+        "m3u8": "woniu_10000042.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000043",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "湖南都市",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "湖南都市高清"
+        },
+        "m3u8": "woniu_10000043.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000044",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "湖南电影",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "湖南电影高清"
+        },
+        "m3u8": "woniu_10000044.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000045",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "湖南电视剧",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "湖南电视剧高清"
+        },
+        "m3u8": "woniu_10000045.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000046",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "湖南公共",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "湖南公共高清"
+        },
+        "m3u8": "woniu_10000046.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000047",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "快乐购",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "快乐购高清"
+        },
+        "m3u8": "woniu_10000047.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000048",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "天元围棋",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg",
+            "group-title": "蜗牛TV",
+            "title": "天元围棋"
+        },
+        "m3u8": "woniu_10000048.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000049",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "摄影频道",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg",
+            "group-title": "蜗牛TV",
+            "title": "摄影频道"
+        },
+        "m3u8": "woniu_10000049.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000050",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "高尔夫频道",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "高尔夫频道"
+        },
+        "m3u8": "woniu_10000050.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000051",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "四海钓鱼",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg",
+            "group-title": "蜗牛TV",
+            "title": "四海钓鱼"
+        },
+        "m3u8": "woniu_10000051.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000052",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "财富天下",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/财富天下.png",
+            "group-title": "蜗牛TV",
+            "title": "财富天下"
+        },
+        "m3u8": "woniu_10000052.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000053",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "劲爆体育",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg",
+            "group-title": "蜗牛TV",
+            "title": "劲爆体育"
+        },
+        "m3u8": "woniu_10000053.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000054",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "欢笑剧场",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/huanxiao.png",
+            "group-title": "蜗牛TV",
+            "title": "欢笑剧场"
+        },
+        "m3u8": "woniu_10000054.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000055",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "全纪实",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/quanjishi.png",
+            "group-title": "蜗牛TV",
+            "title": "全纪实"
+        },
+        "m3u8": "woniu_10000055.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000056",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "游戏风云",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png",
+            "group-title": "蜗牛TV",
+            "title": "游戏风云"
+        },
+        "m3u8": "woniu_10000056.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000057",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "极速汽车",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "极速汽车"
+        },
+        "m3u8": "woniu_10000057.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000058",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "生活时尚",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png",
+            "group-title": "蜗牛TV",
+            "title": "生活时尚"
+        },
+        "m3u8": "woniu_10000058.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000059",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "幸福彩",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/xingfucai.png",
+            "group-title": "蜗牛TV",
+            "title": "幸福彩"
+        },
+        "m3u8": "woniu_10000059.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000074",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第一剧场",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png",
+            "group-title": "蜗牛TV",
+            "title": "第一剧场"
+        },
+        "m3u8": "woniu_10000074.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000075",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "世界地理",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",
+            "group-title": "蜗牛TV",
+            "title": "世界地理"
+        },
+        "m3u8": "woniu_10000075.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000076",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "国学频道",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "国学频道"
+        },
+        "m3u8": "woniu_10000076.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000077",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "书画频道",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg",
+            "group-title": "蜗牛TV",
+            "title": "书画频道"
+        },
+        "m3u8": "woniu_10000077.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000078",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "兵器科技",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg",
+            "group-title": "蜗牛TV",
+            "title": "兵器科技"
+        },
+        "m3u8": "woniu_10000078.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000079",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "中华美食",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg",
+            "group-title": "蜗牛TV",
+            "title": "中华美食"
+        },
+        "m3u8": "woniu_10000079.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000080",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "先锋乒羽",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/XFBY.jpg",
+            "group-title": "蜗牛TV",
+            "title": "先锋乒羽"
+        },
+        "m3u8": "woniu_10000080.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000081",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "CHC高清电影",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg",
+            "group-title": "蜗牛TV",
+            "title": "CHC高清电影"
+        },
+        "m3u8": "woniu_10000081.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000082",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "动漫秀场",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "动漫秀场"
+        },
+        "m3u8": "woniu_10000082.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000083",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "法治天地",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "法治天地"
+        },
+        "m3u8": "woniu_10000083.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000084",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "快乐垂钓",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg",
+            "group-title": "蜗牛TV",
+            "title": "快乐垂钓"
+        },
+        "m3u8": "woniu_10000084.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000085",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "茶频道",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg",
+            "group-title": "蜗牛TV",
+            "title": "茶频道"
+        },
+        "m3u8": "woniu_10000085.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000086",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "陶瓷频道",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "陶瓷频道"
+        },
+        "m3u8": "woniu_10000086.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000087",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "东方财经",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "东方财经"
+        },
+        "m3u8": "woniu_10000087.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000088",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "求索记录",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg",
+            "group-title": "蜗牛TV",
+            "title": "求索记录"
+        },
+        "m3u8": "woniu_10000088.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000089",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "求索生活",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg",
+            "group-title": "蜗牛TV",
+            "title": "求索生活"
+        },
+        "m3u8": "woniu_10000089.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000090",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "求索动物",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg",
+            "group-title": "蜗牛TV",
+            "title": "求索动物"
+        },
+        "m3u8": "woniu_10000090.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000091",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "求索科学",
+            "tvg-logo": "http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg",
+            "group-title": "蜗牛TV",
+            "title": "求索科学"
+        },
+        "m3u8": "woniu_10000091.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "woniu_live",
+        "channel": "10000092",
+        "website": "",
+        "liveapi": "https://catv-test.chinaotttv.com/api/live/playAddress?type=3&channelId=%s",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "幸福剧场",
+            "tvg-logo": "",
+            "group-title": "蜗牛TV",
+            "title": "幸福剧场"
+        },
+        "m3u8": "woniu_10000092.m3u8"
+    }
+]
