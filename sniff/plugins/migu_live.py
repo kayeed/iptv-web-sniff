@@ -66,7 +66,7 @@ class migu_live(web_live):
             link = link.replace('ws450/','ws2000/')
 
             u = urlparse(link)
-            result = u._replace(netloc='live.hcs.cmvideo.cn')
+            result = u._replace(netloc='218.98.16.2:8080/live.hcs.cmvideo.cn')
             link = urlunparse(result)
             link = self.__probe_high_resolution(link)
             print("  {0: <20}{1:}".format(self.extinfo[4], link))
