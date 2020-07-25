@@ -182,6 +182,26 @@
     {
         "active": 1,
         "plugin": "cibn_live",
+        "channel": "69",
+        "website": "",
+        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "姐妹兄弟",
+            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title": "CIBN",
+            "title": "姐妹兄弟"
+        },
+        "m3u8": "cibn_69.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cibn_live",
         "channel": "46",
         "website": "",
         "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
@@ -242,26 +262,6 @@
     {
         "active": 1,
         "plugin": "cibn_live",
-        "channel": "75",
-        "website": "",
-        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "汽车",
-            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
-            "group-title": "CIBN",
-            "title": "汽车"
-        },
-        "m3u8": "cibn_qiche.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "cibn_live",
         "channel": "65",
         "website": "",
         "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
@@ -273,7 +273,7 @@
         "m3uinfo": {
             "tvg-id": "",
             "tvg-name": "快乐购物",
-            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "tvg-logo": "http://www.nettv.live/uploads/allimg/20/1-20062R12Q10-L.jpg",
             "group-title": "CIBN",
             "title": "快乐购物"
         },
@@ -298,6 +298,46 @@
             "title": "映画"
         },
         "m3u8": "cibn_tiyu.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cibn_live",
+        "channel": "70",
+        "website": "",
+        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "烧饼皇后",
+            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title": "CIBN",
+            "title": "烧饼皇后"
+        },
+        "m3u8": "cibn_70.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cibn_live",
+        "channel": "71",
+        "website": "",
+        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "黑狐之风影",
+            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title": "CIBN",
+            "title": "黑狐之风影"
+        },
+        "m3u8": "cibn_71.m3u8"
     },
     {
         "active": 1,
@@ -362,7 +402,7 @@
     {
         "active": 1,
         "plugin": "cibn_live",
-        "channel": "103",
+        "channel": "113",
         "website": "",
         "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
         "headers": {
@@ -372,12 +412,12 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "健康",
-            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "tvg-name": "东方教育",
+            "tvg-logo": "http://www.nettv.live/uploads/allimg/20/1-20062R119160-L.jpg",
             "group-title": "CIBN",
-            "title": "健康"
+            "title": "东方教育"
         },
-        "m3u8": "cibn_jiankang.m3u8"
+        "m3u8": "cibn_hanwenhua.m3u8"
     },
     {
         "active": 1,
@@ -398,6 +438,46 @@
             "title": "流行榜单"
         },
         "m3u8": "cibn_155.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cibn_live",
+        "channel": "56",
+        "website": "",
+        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "中国传统文化鉴赏",
+            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title": "CIBN",
+            "title": "中国传统文化鉴赏"
+        },
+        "m3u8": "cibn_56.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cibn_live",
+        "channel": "66",
+        "website": "",
+        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "神探包青天",
+            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title": "CIBN",
+            "title": "神探包青天"
+        },
+        "m3u8": "cibn_66.m3u8"
     },
     {
         "active": 1,
@@ -522,6 +602,66 @@
     {
         "active": 1,
         "plugin": "cibn_live",
+        "channel": "57",
+        "website": "",
+        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "幼儿绘画教程",
+            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title": "CIBN",
+            "title": "幼儿绘画教程"
+        },
+        "m3u8": "cibn_57.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cibn_live",
+        "channel": "67",
+        "website": "",
+        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "好家伙",
+            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title": "CIBN",
+            "title": "好家伙"
+        },
+        "m3u8": "cibn_67.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cibn_live",
+        "channel": "72",
+        "website": "",
+        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "情谜睡美人",
+            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title": "CIBN",
+            "title": "情谜睡美人"
+        },
+        "m3u8": "cibn_72.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cibn_live",
         "channel": "301",
         "website": "",
         "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
@@ -558,26 +698,6 @@
             "title": "美食厨房"
         },
         "m3u8": "cibn_302.m3u8"
-    },
-    {
-        "active": 1,
-        "plugin": "cibn_live",
-        "channel": "400",
-        "website": "",
-        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
-            "Referer": ""
-        },
-        "referer": 0,
-        "m3uinfo": {
-            "tvg-id": "",
-            "tvg-name": "热卖推荐",
-            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
-            "group-title": "CIBN",
-            "title": "热卖推荐"
-        },
-        "m3u8": "cibn_400.m3u8"
     },
     {
         "active": 1,
@@ -638,6 +758,26 @@
             "title": "古装剧场"
         },
         "m3u8": "cibn_zongyi.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cibn_live",
+        "channel": "58",
+        "website": "",
+        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "问题大挑战",
+            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title": "CIBN",
+            "title": "问题大挑战"
+        },
+        "m3u8": "cibn_58.m3u8"
     },
     {
         "active": 1,
@@ -722,6 +862,26 @@
     {
         "active": 1,
         "plugin": "cibn_live",
+        "channel": "59",
+        "website": "",
+        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "千意快乐小百科",
+            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title": "CIBN",
+            "title": "千意快乐小百科"
+        },
+        "m3u8": "cibn_59.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cibn_live",
         "channel": "54",
         "website": "",
         "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
@@ -738,6 +898,46 @@
             "title": "朵丫乐园"
         },
         "m3u8": "cibn_chanwenhua.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cibn_live",
+        "channel": "60",
+        "website": "",
+        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "三毛流浪记",
+            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title": "CIBN",
+            "title": "三毛流浪记"
+        },
+        "m3u8": "cibn_60.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cibn_live",
+        "channel": "61",
+        "website": "",
+        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "三国演义",
+            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title": "CIBN",
+            "title": "三国演义"
+        },
+        "m3u8": "cibn_61.m3u8"
     },
     {
         "active": 1,
@@ -762,7 +962,7 @@
     {
         "active": 1,
         "plugin": "cibn_live",
-        "channel": "126",
+        "channel": "73",
         "website": "",
         "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
         "headers": {
@@ -772,12 +972,12 @@
         "referer": 0,
         "m3uinfo": {
             "tvg-id": "",
-            "tvg-name": "斗牛财经",
-            "tvg-logo": "http://www.nettv.live/uploads/allimg/20/1-20021F005030-L.jpg",
+            "tvg-name": "誓言",
+            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
             "group-title": "CIBN",
-            "title": "斗牛财经"
+            "title": "誓言"
         },
-        "m3u8": "cibn_126.m3u8"
+        "m3u8": "cibn_73.m3u8"
     },
     {
         "active": 1,
@@ -798,6 +998,26 @@
             "title": "流金岁月"
         },
         "m3u8": "cibn_shoucang.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "cibn_live",
+        "channel": "74",
+        "website": "",
+        "liveapi": "http://api.epg2.cibn.cc/v1/loopChannelList?epgId=1000",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "狙击",
+            "tvg-logo": "https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg",
+            "group-title": "CIBN",
+            "title": "狙击"
+        },
+        "m3u8": "cibn_74.m3u8"
     },
     {
         "active": 1,
