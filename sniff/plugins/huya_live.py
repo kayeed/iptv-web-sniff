@@ -101,8 +101,8 @@ class huya_live(web_live):
 
         print("probe website %s ......"%(self.website))
 
-        #link = self.__mobile_player()
-        link = self.__desktop_player()
+        link = self.__mobile_player()
+        #link = self.__desktop_player()
         if link:
             print("  {0: <20}{1:}".format(self.extinfo[4], link))
             channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
