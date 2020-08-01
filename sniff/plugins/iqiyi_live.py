@@ -40,7 +40,8 @@ class iqiyi_live(web_live):
             'tm': int(tm + 1),
         }
         src = '/live?{}'.format(urlencode(params))
-        vf = cmd5x(src)
+        #vf = cmd5x(src)
+        vf = self.md5(src+'h2l6suw16pbtikmotf0j79cej4n8uw13')
         st = int(tm * 1000)
         et = int((tm + 1296000) * 1000)
         c_dfp = '__dfp={}@{}@{}'.format(params['dfp'], et, st)
@@ -61,20 +62,17 @@ class iqiyi_live(web_live):
             if info["code"] != "A00000":
                 self.logger.error(info)
                 return None
-            bitrates = []
-            link_dict = {}
             for stream in info["data"]["streams"]:
                 url = stream["url"]
-                bitrate = int(stream["bitrate"])
-                if stream["streamFormat"] == "TS" and url.startswith(("https://", "http://")):
-                    link_dict[bitrate] = url
-                    bitrates.append(bitrate)
-            bitrates.sort(reverse=True)
-            link = link_dict[bitrates[0]]
-            print("  {0: <20}{1:}".format(self.extinfo[4], link))
-            channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
-            self.link = link
-            return channel
+                if stream["streamFormat"] == "TS" and stream["steamType"] == "RESOLUTION_1080P" and url.startswith(("https://", "http://")):
+                    link = url
+            if link:
+                print("  {0: <20}{1:}".format(self.extinfo[4], link))
+                channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
+                self.link = link
+                return channel
+            self.logger.error(info)
+            return None
         except ValueError:
             self.logger.error(response.text)
             return None
