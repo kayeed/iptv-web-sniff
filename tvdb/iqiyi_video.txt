@@ -1,0 +1,3122 @@
+[
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57hv5c.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57hv5c.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第1集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20181203/ff/90/v_119189477_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第1集"
+        },
+        "m3u8": "iqiyi_peppig_0_1.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57hywc.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57hywc.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第2集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20181130/00/d1/v_119189511_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第2集"
+        },
+        "m3u8": "iqiyi_peppig_0_2.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57hxx4.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57hxx4.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第3集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20181202/ee/c9/v_119189527_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第3集"
+        },
+        "m3u8": "iqiyi_peppig_0_3.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57hkvs.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57hkvs.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第4集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20181203/30/24/v_119189655_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第4集"
+        },
+        "m3u8": "iqiyi_peppig_0_4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57hmnk.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57hmnk.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第5集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20180921/96/8a/v_119189674_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第5集"
+        },
+        "m3u8": "iqiyi_peppig_0_5.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57ho1g.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57ho1g.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第6集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20180921/ae/e9/v_119189695_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第6集"
+        },
+        "m3u8": "iqiyi_peppig_0_6.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57hmw4.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57hmw4.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第7集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20181130/e3/c2/v_119189709_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第7集"
+        },
+        "m3u8": "iqiyi_peppig_0_7.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57fxlk.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57fxlk.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第8集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20181108/9f/31/v_119189726_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第8集"
+        },
+        "m3u8": "iqiyi_peppig_0_8.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57fzlo.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57fzlo.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第9集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20180921/68/b1/v_119189742_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第9集"
+        },
+        "m3u8": "iqiyi_peppig_0_9.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57g148.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57g148.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第10集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20181203/1e/66/v_119189763_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第10集"
+        },
+        "m3u8": "iqiyi_peppig_0_10.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57g2ug.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57g2ug.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第11集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20181202/19/c6/v_119189781_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第11集"
+        },
+        "m3u8": "iqiyi_peppig_0_11.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57fqqo.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57fqqo.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第12集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20181203/dc/b4/v_119189814_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第12集"
+        },
+        "m3u8": "iqiyi_peppig_0_12.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57fsqs.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57fsqs.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第13集",
+            "tvg-logo": "https://pic1.iqiyipic.com/image/20180921/34/ec/v_119189829_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第13集"
+        },
+        "m3u8": "iqiyi_peppig_0_13.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57fusg.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57fusg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第14集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20181130/17/b7/v_119189849_m_601_m2_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第14集"
+        },
+        "m3u8": "iqiyi_peppig_0_14.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57fwgs.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57fwgs.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第15集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20180921/94/d2/v_119189867_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第15集"
+        },
+        "m3u8": "iqiyi_peppig_0_15.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57fl6o.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57fl6o.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第16集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20180921/df/cb/v_119189890_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第16集"
+        },
+        "m3u8": "iqiyi_peppig_0_16.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57fng0.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57fng0.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第17集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20180921/22/98/v_119189901_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第17集"
+        },
+        "m3u8": "iqiyi_peppig_0_17.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57fof4.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57fof4.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第18集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20181130/92/80/v_119189930_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第18集"
+        },
+        "m3u8": "iqiyi_peppig_0_18.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57fqcg.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57fqcg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第19集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20181202/ef/bb/v_119189945_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第19集"
+        },
+        "m3u8": "iqiyi_peppig_0_19.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57fplk.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57fplk.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第20集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20181202/6c/ae/v_119189956_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第20集"
+        },
+        "m3u8": "iqiyi_peppig_0_20.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57fgnk.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57fgnk.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第21集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20180925/16/d3/v_119189990_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第21集"
+        },
+        "m3u8": "iqiyi_peppig_0_21.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57ffuk.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57ffuk.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第22集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20181202/f4/85/v_119190005_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第22集"
+        },
+        "m3u8": "iqiyi_peppig_0_22.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57gml0.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57gml0.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第23集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20181202/1c/98/v_119190062_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第23集"
+        },
+        "m3u8": "iqiyi_peppig_0_23.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57gp2g.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57gp2g.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第24集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20181202/b3/d8/v_119190074_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第24集"
+        },
+        "m3u8": "iqiyi_peppig_0_24.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57gqpw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57gqpw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第25集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20181202/01/b2/v_119190090_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第25集"
+        },
+        "m3u8": "iqiyi_peppig_0_25.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57gpls.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57gpls.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第26集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20180925/06/68/v_119190107_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第26集"
+        },
+        "m3u8": "iqiyi_peppig_0_26.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57gs0o.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57gs0o.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第27集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20181130/3c/ef/v_119190119_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第27集"
+        },
+        "m3u8": "iqiyi_peppig_0_27.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57ggrg.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57ggrg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第28集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20180925/e4/f2/v_119190141_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第28集"
+        },
+        "m3u8": "iqiyi_peppig_0_28.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57g5dg.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57g5dg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第29集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20180925/97/cb/v_119190329_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第29集"
+        },
+        "m3u8": "iqiyi_peppig_0_29.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr57g7ng.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr57g7ng.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第30集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20181203/ba/56/v_119190342_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第30集"
+        },
+        "m3u8": "iqiyi_peppig_0_30.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rmlss.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rmlss.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第31集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20181130/5e/28/v_119279871_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第31集"
+        },
+        "m3u8": "iqiyi_peppig_0_31.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rmns0.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rmns0.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第32集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20181201/84/22/v_119279886_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第32集"
+        },
+        "m3u8": "iqiyi_peppig_0_32.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rnrf8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rnrf8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第33集",
+            "tvg-logo": "https://pic1.iqiyipic.com/image/20181203/b3/40/v_119279906_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第33集"
+        },
+        "m3u8": "iqiyi_peppig_0_33.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rnwgo.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rnwgo.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第34集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20181130/d8/13/v_119279961_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第34集"
+        },
+        "m3u8": "iqiyi_peppig_0_34.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rnlj8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rnlj8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第35集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20180925/51/5f/v_119279984_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第35集"
+        },
+        "m3u8": "iqiyi_peppig_0_35.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rnmkg.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rnmkg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第36集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20181203/61/76/v_119280008_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第36集"
+        },
+        "m3u8": "iqiyi_peppig_0_36.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rnngg.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rnngg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第37集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20181203/d6/87/v_119280042_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第37集"
+        },
+        "m3u8": "iqiyi_peppig_0_37.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rnpc8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rnpc8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第38集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20181130/00/68/v_119280057_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第38集"
+        },
+        "m3u8": "iqiyi_peppig_0_38.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rnem4.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rnem4.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第39集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20181203/b0/ce/v_119280075_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第39集"
+        },
+        "m3u8": "iqiyi_peppig_0_39.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rnfbc.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rnfbc.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第40集",
+            "tvg-logo": "https://pic1.iqiyipic.com/image/20181130/8a/f3/v_119280104_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第40集"
+        },
+        "m3u8": "iqiyi_peppig_0_40.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rngvo.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rngvo.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第41集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20181201/cc/17/v_119280123_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第41集"
+        },
+        "m3u8": "iqiyi_peppig_0_41.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rn7ho.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rn7ho.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第42集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20181202/e3/72/v_119280165_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第42集"
+        },
+        "m3u8": "iqiyi_peppig_0_42.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rn9ec.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rn9ec.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第43集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20180925/66/d8/v_119280178_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第43集"
+        },
+        "m3u8": "iqiyi_peppig_0_43.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rnbrg.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rnbrg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第44集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20180925/36/26/v_119280189_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第44集"
+        },
+        "m3u8": "iqiyi_peppig_0_44.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rndg4.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rndg4.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第45集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20180925/5b/75/v_119280212_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第45集"
+        },
+        "m3u8": "iqiyi_peppig_0_45.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rncdk.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rncdk.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第46集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20180925/8c/84/v_119280221_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第46集"
+        },
+        "m3u8": "iqiyi_peppig_0_46.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rlmvw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rlmvw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第47集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20181130/5e/2c/v_119280240_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第47集"
+        },
+        "m3u8": "iqiyi_peppig_0_47.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rlphc.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rlphc.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第48集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20180925/57/c3/v_119280246_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第48集"
+        },
+        "m3u8": "iqiyi_peppig_0_48.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rloe4.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rloe4.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第49集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20181201/96/96/v_119280262_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第49集"
+        },
+        "m3u8": "iqiyi_peppig_0_49.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rlqdc.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rlqdc.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第50集",
+            "tvg-logo": "https://pic1.iqiyipic.com/image/20180925/b8/ef/v_119280276_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第50集"
+        },
+        "m3u8": "iqiyi_peppig_0_50.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rli2c.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rli2c.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第51集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20181130/97/1a/v_119280343_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第51集"
+        },
+        "m3u8": "iqiyi_peppig_0_51.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rr4rljds.html",
+        "liveapi": "https://www.iqiyi.com/v_19rr4rljds.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第52集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20181202/25/e4/v_119280364_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第1季",
+            "title": "第52集"
+        },
+        "m3u8": "iqiyi_peppig_0_52.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxww3k.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxww3k.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第1集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20190124/3a/c0/v_124559408_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第1集"
+        },
+        "m3u8": "iqiyi_peppig_1_1.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxww6c.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxww6c.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第2集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20190124/94/0e/v_124559409_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第2集"
+        },
+        "m3u8": "iqiyi_peppig_1_2.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxww20.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxww20.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第3集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20190124/43/00/v_124559407_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第3集"
+        },
+        "m3u8": "iqiyi_peppig_1_3.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxylo8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxylo8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第4集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20190124/cf/3e/v_124559386_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第4集"
+        },
+        "m3u8": "iqiyi_peppig_1_4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxykq0.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxykq0.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第5集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20190127/cb/48/v_124559397_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第5集"
+        },
+        "m3u8": "iqiyi_peppig_1_5.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxylio.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxylio.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第6集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20190127/f8/96/v_124559389_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第6集"
+        },
+        "m3u8": "iqiyi_peppig_1_6.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxykrk.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxykrk.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第7集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20190127/ad/8c/v_124559400_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第7集"
+        },
+        "m3u8": "iqiyi_peppig_1_7.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxylsk.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxylsk.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第8集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20190127/af/58/v_124559387_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第8集"
+        },
+        "m3u8": "iqiyi_peppig_1_8.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxykn8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxykn8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第9集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20190127/76/e6/v_124559399_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第9集"
+        },
+        "m3u8": "iqiyi_peppig_1_9.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyl6c.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyl6c.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第10集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20190127/f3/9c/v_124559395_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第10集"
+        },
+        "m3u8": "iqiyi_peppig_1_10.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxylds.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxylds.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第11集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20190127/bc/6d/v_124559391_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第11集"
+        },
+        "m3u8": "iqiyi_peppig_1_11.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxykwg.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxykwg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第12集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20190127/9c/d8/v_124559396_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第12集"
+        },
+        "m3u8": "iqiyi_peppig_1_12.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxykk4.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxykk4.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第13集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20190127/18/53/v_124559404_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第13集"
+        },
+        "m3u8": "iqiyi_peppig_1_13.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyl20.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyl20.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第14集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20190127/c8/b6/v_124559392_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第14集"
+        },
+        "m3u8": "iqiyi_peppig_1_14.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyljc.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyljc.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第15集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20190127/b1/66/v_124559390_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第15集"
+        },
+        "m3u8": "iqiyi_peppig_1_15.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyl4s.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyl4s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第16集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20190127/73/1d/v_124559394_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第16集"
+        },
+        "m3u8": "iqiyi_peppig_1_16.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyka8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyka8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第17集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20190127/ee/09/v_124559405_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第17集"
+        },
+        "m3u8": "iqiyi_peppig_1_17.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxykzw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxykzw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第18集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20190127/2b/69/v_124559398_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第18集"
+        },
+        "m3u8": "iqiyi_peppig_1_18.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxykik.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxykik.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第19集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20190127/19/4f/v_124559402_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第19集"
+        },
+        "m3u8": "iqiyi_peppig_1_19.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxykmw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxykmw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第20集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20190127/6e/a6/v_124559401_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第20集"
+        },
+        "m3u8": "iqiyi_peppig_1_20.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyrro.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyrro.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第21集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20190127/da/8a/v_124559307_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第21集"
+        },
+        "m3u8": "iqiyi_peppig_1_21.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyp1o.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyp1o.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第22集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20190127/ea/35/v_124559302_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第22集"
+        },
+        "m3u8": "iqiyi_peppig_1_22.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyrug.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyrug.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第23集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20190127/80/31/v_124559306_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第23集"
+        },
+        "m3u8": "iqiyi_peppig_1_23.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxys4c.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxys4c.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第24集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20190127/02/08/v_124559304_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第24集"
+        },
+        "m3u8": "iqiyi_peppig_1_24.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyrl8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyrl8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第25集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20190127/51/8d/v_124559308_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第25集"
+        },
+        "m3u8": "iqiyi_peppig_1_25.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyp38.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyp38.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第26集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20190127/17/85/v_124559303_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第26集"
+        },
+        "m3u8": "iqiyi_peppig_1_26.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyrw0.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyrw0.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第27集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20190127/f0/b5/v_124559309_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第27集"
+        },
+        "m3u8": "iqiyi_peppig_1_27.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyrz4.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyrz4.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第28集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20190127/eb/ec/v_124559305_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第28集"
+        },
+        "m3u8": "iqiyi_peppig_1_28.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyr9s.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyr9s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第29集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20190127/5d/ec/v_124559317_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第29集"
+        },
+        "m3u8": "iqiyi_peppig_1_29.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyrpk.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyrpk.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第30集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20190127/6d/20/v_124559310_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第30集"
+        },
+        "m3u8": "iqiyi_peppig_1_30.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyqz0.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyqz0.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第31集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20190127/c4/af/v_124559316_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第31集"
+        },
+        "m3u8": "iqiyi_peppig_1_31.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyrcw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyrcw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第32集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20190127/b0/13/v_124559313_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第32集"
+        },
+        "m3u8": "iqiyi_peppig_1_32.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyr3c.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyr3c.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第33集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20190127/c5/77/v_124559318_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第33集"
+        },
+        "m3u8": "iqiyi_peppig_1_33.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyr88.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyr88.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第34集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20190127/ee/ec/v_124559314_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第34集"
+        },
+        "m3u8": "iqiyi_peppig_1_34.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyqvw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyqvw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第35集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20190127/10/4c/v_124559320_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第35集"
+        },
+        "m3u8": "iqiyi_peppig_1_35.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyrfo.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyrfo.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第36集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20190127/83/06/v_124559311_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第36集"
+        },
+        "m3u8": "iqiyi_peppig_1_36.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyqm0.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyqm0.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第37集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20190127/27/90/v_124559322_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第37集"
+        },
+        "m3u8": "iqiyi_peppig_1_37.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyri4.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyri4.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第38集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20190127/50/11/v_124559312_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第38集"
+        },
+        "m3u8": "iqiyi_peppig_1_38.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyqxs.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyqxs.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第39集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20190127/fe/ac/v_124559321_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第39集"
+        },
+        "m3u8": "iqiyi_peppig_1_39.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyrck.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyrck.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第40集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20190127/de/bb/v_124559315_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第40集"
+        },
+        "m3u8": "iqiyi_peppig_1_40.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyqqc.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyqqc.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第41集",
+            "tvg-logo": "https://pic1.iqiyipic.com/image/20190127/e6/53/v_124559323_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第41集"
+        },
+        "m3u8": "iqiyi_peppig_1_41.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyqtg.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyqtg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第42集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20190127/55/52/v_124559319_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第42集"
+        },
+        "m3u8": "iqiyi_peppig_1_42.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxygpw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxygpw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第43集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20190127/3f/ad/v_124559327_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第43集"
+        },
+        "m3u8": "iqiyi_peppig_1_43.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxygz4.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxygz4.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第44集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20190127/62/ba/v_124559325_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第44集"
+        },
+        "m3u8": "iqiyi_peppig_1_44.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyh2k.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyh2k.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第45集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20190127/c2/be/v_124559324_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第45集"
+        },
+        "m3u8": "iqiyi_peppig_1_45.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxygl8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxygl8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第46集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20190127/ea/85/v_124559328_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第46集"
+        },
+        "m3u8": "iqiyi_peppig_1_46.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxygzs.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxygzs.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第47集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20190127/2b/1d/v_124559326_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第47集"
+        },
+        "m3u8": "iqiyi_peppig_1_47.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxygig.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxygig.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第48集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20190127/c8/55/v_124559330_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第48集"
+        },
+        "m3u8": "iqiyi_peppig_1_48.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyipw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyipw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第49集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20190127/27/ca/v_124559383_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第49集"
+        },
+        "m3u8": "iqiyi_peppig_1_49.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyisc.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyisc.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第50集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20190127/3d/8d/v_124559384_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第50集"
+        },
+        "m3u8": "iqiyi_peppig_1_50.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxyiu8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxyiu8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第51集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20190127/db/b4/v_124559385_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第51集"
+        },
+        "m3u8": "iqiyi_peppig_1_51.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxygu8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxygu8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第52集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20190127/fc/c5/v_124559329_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第2季",
+            "title": "第52集"
+        },
+        "m3u8": "iqiyi_peppig_1_52.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxz0ds.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxz0ds.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第1集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20190127/1d/60/v_124559116_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第1集"
+        },
+        "m3u8": "iqiyi_peppig_2_1.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxz15k.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxz15k.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第2集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20190127/8d/5d/v_124559107_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第2集"
+        },
+        "m3u8": "iqiyi_peppig_2_2.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxy2ic.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxy2ic.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第3集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20190127/dd/b2/v_124558979_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第3集"
+        },
+        "m3u8": "iqiyi_peppig_2_3.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxz0gw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxz0gw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第4集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20190127/cc/90/v_124559112_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第4集"
+        },
+        "m3u8": "iqiyi_peppig_2_4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxy2g8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxy2g8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第5集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20190127/f5/b0/v_124558981_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第5集"
+        },
+        "m3u8": "iqiyi_peppig_2_5.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxz0m4.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxz0m4.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第6集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20190127/b8/5a/v_124559113_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第6集"
+        },
+        "m3u8": "iqiyi_peppig_2_6.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxy2s8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxy2s8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第7集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20190127/f6/4f/v_124558977_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第7集"
+        },
+        "m3u8": "iqiyi_peppig_2_7.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxz100.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxz100.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第8集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20190127/c5/f7/v_124559108_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第8集"
+        },
+        "m3u8": "iqiyi_peppig_2_8.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxy2v0.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxy2v0.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第9集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20190127/42/83/v_124558976_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第9集"
+        },
+        "m3u8": "iqiyi_peppig_2_9.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxz0qs.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxz0qs.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第10集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20190127/ff/1a/v_124559110_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第10集"
+        },
+        "m3u8": "iqiyi_peppig_2_10.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxy2ps.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxy2ps.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第11集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20190127/a5/2d/v_124558974_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第11集"
+        },
+        "m3u8": "iqiyi_peppig_2_11.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxz0vo.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxz0vo.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第12集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20190127/85/28/v_124559106_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第12集"
+        },
+        "m3u8": "iqiyi_peppig_2_12.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxz0tk.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxz0tk.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第13集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20190127/3a/a2/v_124559111_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第13集"
+        },
+        "m3u8": "iqiyi_peppig_2_13.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxz0c8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxz0c8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第14集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20190127/eb/32/v_124559115_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第14集"
+        },
+        "m3u8": "iqiyi_peppig_2_14.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxxzys.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxxzys.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第15集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20190127/9b/a5/v_124558971_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第15集"
+        },
+        "m3u8": "iqiyi_peppig_2_15.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxy2bw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxy2bw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第16集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20190127/fe/bf/v_124558980_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第16集"
+        },
+        "m3u8": "iqiyi_peppig_2_16.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxy034.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxy034.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第17集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20190127/e3/c0/v_124558972_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第17集"
+        },
+        "m3u8": "iqiyi_peppig_2_17.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxz18c.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxz18c.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第18集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20190127/68/3e/v_124559105_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第18集"
+        },
+        "m3u8": "iqiyi_peppig_2_18.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxxzpk.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxxzpk.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第19集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20190127/28/c7/v_124558973_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第19集"
+        },
+        "m3u8": "iqiyi_peppig_2_19.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxy2dg.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxy2dg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第20集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20190127/1e/19/v_124558983_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第20集"
+        },
+        "m3u8": "iqiyi_peppig_2_20.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxy04c.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxy04c.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第21集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20190127/cb/cd/v_124558970_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第21集"
+        },
+        "m3u8": "iqiyi_peppig_2_21.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxy2mo.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxy2mo.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第22集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20190127/8a/0b/v_124558978_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第22集"
+        },
+        "m3u8": "iqiyi_peppig_2_22.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxy08o.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxy08o.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第23集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20190127/a3/88/v_124558969_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第23集"
+        },
+        "m3u8": "iqiyi_peppig_2_23.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxxztw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxxztw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第24集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20190127/a0/b3/v_124558975_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第24集"
+        },
+        "m3u8": "iqiyi_peppig_2_24.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxy068.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxy068.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第25集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20190127/3f/af/v_124558968_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第25集"
+        },
+        "m3u8": "iqiyi_peppig_2_25.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxz09g.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxz09g.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第26集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20190127/d4/fc/v_124559114_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第3季",
+            "title": "第26集"
+        },
+        "m3u8": "iqiyi_peppig_2_26.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxu4v4.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxu4v4.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第1集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20190124/2c/98/v_124558151_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第1集"
+        },
+        "m3u8": "iqiyi_peppig_3_1.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtk4w.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtk4w.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第2集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20190124/d8/cb/v_124558379_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第2集"
+        },
+        "m3u8": "iqiyi_peppig_3_2.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtkr4.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtkr4.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第3集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20190125/9e/19/v_124558371_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第3集"
+        },
+        "m3u8": "iqiyi_peppig_3_3.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtkes.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtkes.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第4集",
+            "tvg-logo": "https://pic1.iqiyipic.com/image/20190127/76/9a/v_124558380_m_601_m1_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第4集"
+        },
+        "m3u8": "iqiyi_peppig_3_4.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtkwo.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtkwo.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第5集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20190125/db/2d/v_124558370_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第5集"
+        },
+        "m3u8": "iqiyi_peppig_3_5.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtkko.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtkko.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第6集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20190125/33/34/v_124558374_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第6集"
+        },
+        "m3u8": "iqiyi_peppig_3_6.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtl10.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtl10.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第7集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20190127/67/7b/v_124558372_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第7集"
+        },
+        "m3u8": "iqiyi_peppig_3_7.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtk8c.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtk8c.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第8集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20190127/eb/1e/v_124558381_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第8集"
+        },
+        "m3u8": "iqiyi_peppig_3_8.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtkm8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtkm8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第9集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20190127/fc/53/v_124558375_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第9集"
+        },
+        "m3u8": "iqiyi_peppig_3_9.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtkd8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtkd8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第10集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20190127/0f/12/v_124558377_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第10集"
+        },
+        "m3u8": "iqiyi_peppig_3_10.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtkuk.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtkuk.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第11集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20190127/86/23/v_124558373_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第11集"
+        },
+        "m3u8": "iqiyi_peppig_3_11.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtn5s.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtn5s.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第12集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20190127/79/68/v_124558383_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第12集"
+        },
+        "m3u8": "iqiyi_peppig_3_12.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtkhk.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtkhk.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第13集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20190127/0d/a0/v_124558378_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第13集"
+        },
+        "m3u8": "iqiyi_peppig_3_13.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtn8k.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtn8k.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第14集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20190127/3e/2b/v_124558384_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第14集"
+        },
+        "m3u8": "iqiyi_peppig_3_14.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtkhw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtkhw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第15集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20190127/68/51/v_124558376_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第15集"
+        },
+        "m3u8": "iqiyi_peppig_3_15.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtn48.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtn48.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第16集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20190127/f0/5a/v_124558382_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第16集"
+        },
+        "m3u8": "iqiyi_peppig_3_16.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtmws.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtmws.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第17集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20190127/50/91/v_124558385_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第17集"
+        },
+        "m3u8": "iqiyi_peppig_3_17.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtmog.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtmog.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第18集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20190127/10/5b/v_124558387_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第18集"
+        },
+        "m3u8": "iqiyi_peppig_3_18.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtmr8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtmr8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第19集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20190127/a6/04/v_124558388_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第19集"
+        },
+        "m3u8": "iqiyi_peppig_3_19.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtmrw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtmrw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第20集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20190127/7f/36/v_124558389_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第20集"
+        },
+        "m3u8": "iqiyi_peppig_3_20.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtmmc.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtmmc.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第21集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20190127/df/35/v_124558392_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第21集"
+        },
+        "m3u8": "iqiyi_peppig_3_21.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtn14.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtn14.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第22集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20190127/70/89/v_124558386_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第22集"
+        },
+        "m3u8": "iqiyi_peppig_3_22.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtmcg.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtmcg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第23集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20190127/bd/8c/v_124558391_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第23集"
+        },
+        "m3u8": "iqiyi_peppig_3_23.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtmak.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtmak.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第24集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20190127/7b/9a/v_124558393_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第24集"
+        },
+        "m3u8": "iqiyi_peppig_3_24.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtmi0.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtmi0.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第25集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20190127/1b/81/v_124558390_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第25集"
+        },
+        "m3u8": "iqiyi_peppig_3_25.m3u8"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rqvxtm50.html",
+        "liveapi": "https://www.iqiyi.com/v_19rqvxtm50.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第26集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20190127/d7/33/v_124558394_m_601_220_124.jpg",
+            "group-title": "小猪佩奇.第4季",
+            "title": "第26集"
+        },
+        "m3u8": "iqiyi_peppig_3_26.m3u8"
+    }
+]
