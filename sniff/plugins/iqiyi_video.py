@@ -78,7 +78,7 @@ class iqiyi_video(web_live):
                 if stream["scrsz"] == "3840x2152" or stream["scrsz"] == "1920x1080":
                     link = url_prefix + stream["fs"][0]["l"]
             if link:
-                liveurl = link
+                liveurl = link.replace("http", "https")
                 try:
                     response = requests.get(liveurl, headers=self.headers)
                     response.raise_for_status()

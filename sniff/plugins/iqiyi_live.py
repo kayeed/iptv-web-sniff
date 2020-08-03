@@ -65,7 +65,7 @@ class iqiyi_live(web_live):
             for stream in info["data"]["streams"]:
                 url = stream["url"]
                 if stream["streamFormat"] == "TS" and stream["steamType"] == "RESOLUTION_1080P" and url.startswith(("https://", "http://")):
-                    link = url
+                    link = url.replace("http", "https")
             if link:
                 print("  {0: <20}{1:}".format(self.extinfo[4], link))
                 channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
