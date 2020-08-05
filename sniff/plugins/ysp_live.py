@@ -23,6 +23,7 @@ class ysp_live(web_live):
         liveurl = self.liveapi
 
         #link = self.http_redirect(liveurl)
+        link = liveurl
         print("  {0: <20}{1:}".format(self.extinfo[4], link))
         channel = self.extinfo + [link] + [self.headers["Referer"] if self.referer == 1 else ""]
         self.link = link
