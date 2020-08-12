@@ -29,8 +29,8 @@ class huya_live(web_live):
         fm = unquote(n['fm'])
         u = base64.b64decode(fm).decode('utf-8')
         p = u.split('_')[0]
-        #f = str(int(time.time() * 1e7 + 10000*random.random()))
-        f = str(int(time.time() * 1e7))
+        f = str(int(time.time() * 1e7 + 10000*random.random()))
+        #f = str(int(time.time() * 1e7))
         l = n['wsTime']
         t = '0'
         h = '_'.join([p, t, s, f, l])
