@@ -3118,5 +3118,645 @@
             "title": "第26集"
         },
         "m3u8": "iqiyi_peppapig_4_26.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_2ffkwycne88.html",
+        "liveapi": "https://www.iqiyi.com/v_2ffkwycne88.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第1集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20200715/cf/d2/v_150711463_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第1集"
+        },
+        "m3u8": "iqiyi_peppapig_1_1.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_2ffkwycn3us.html",
+        "liveapi": "https://www.iqiyi.com/v_2ffkwycn3us.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第2集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20200715/ba/9c/v_150711469_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第2集"
+        },
+        "m3u8": "iqiyi_peppapig_1_2.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_2ffkwycn33w.html",
+        "liveapi": "https://www.iqiyi.com/v_2ffkwycn33w.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第3集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20200715/aa/c9/v_150711476_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第3集"
+        },
+        "m3u8": "iqiyi_peppapig_1_3.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_2ffkwycn4wc.html",
+        "liveapi": "https://www.iqiyi.com/v_2ffkwycn4wc.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第4集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20200715/55/16/v_150711496_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第4集"
+        },
+        "m3u8": "iqiyi_peppapig_1_4.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_2ffkwycn408.html",
+        "liveapi": "https://www.iqiyi.com/v_2ffkwycn408.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第5集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20200715/6e/73/v_150711503_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第5集"
+        },
+        "m3u8": "iqiyi_peppapig_1_5.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_2ffkwycn7ik.html",
+        "liveapi": "https://www.iqiyi.com/v_2ffkwycn7ik.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第6集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20200715/7f/55/v_150711534_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第6集"
+        },
+        "m3u8": "iqiyi_peppapig_1_6.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rzgzqpwk.html",
+        "liveapi": "https://www.iqiyi.com/v_19rzgzqpwk.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第7集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20200715/dd/57/v_150723931_m_601_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第7集"
+        },
+        "m3u8": "iqiyi_peppapig_1_7.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rzgzr8ww.html",
+        "liveapi": "https://www.iqiyi.com/v_19rzgzr8ww.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第8集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20200716/95/99/v_150724009_m_601_m2_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第8集"
+        },
+        "m3u8": "iqiyi_peppapig_1_8.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rzgzprmw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rzgzprmw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第9集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20200720/b4/76/v_150724088_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第9集"
+        },
+        "m3u8": "iqiyi_peppapig_1_9.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rzgzt8wg.html",
+        "liveapi": "https://www.iqiyi.com/v_19rzgzt8wg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第10集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20200715/91/c5/v_150724129_m_601_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第10集"
+        },
+        "m3u8": "iqiyi_peppapig_1_10.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rzihz2y0.html",
+        "liveapi": "https://www.iqiyi.com/v_19rzihz2y0.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第11集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20200722/60/7c/v_150793057_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第11集"
+        },
+        "m3u8": "iqiyi_peppapig_1_11.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rzihz5w8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rzihz5w8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第12集",
+            "tvg-logo": "https://pic9.iqiyipic.com/image/20200722/48/46/v_150793067_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第12集"
+        },
+        "m3u8": "iqiyi_peppapig_1_12.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rzihyyrw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rzihyyrw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第13集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20200722/8e/da/v_150793077_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第13集"
+        },
+        "m3u8": "iqiyi_peppapig_1_13.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rzii05i0.html",
+        "liveapi": "https://www.iqiyi.com/v_19rzii05i0.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第14集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20200722/5b/3e/v_150793087_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第14集"
+        },
+        "m3u8": "iqiyi_peppapig_1_14.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rz76xxvw.html",
+        "liveapi": "https://www.iqiyi.com/v_19rz76xxvw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第15集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20200728/59/bb/v_150963578_m_601_m2_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第15集"
+        },
+        "m3u8": "iqiyi_peppapig_1_15.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rz76wd0o.html",
+        "liveapi": "https://www.iqiyi.com/v_19rz76wd0o.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第16集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20200723/53/71/v_150963657_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第16集"
+        },
+        "m3u8": "iqiyi_peppapig_1_16.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rz770hp0.html",
+        "liveapi": "https://www.iqiyi.com/v_19rz770hp0.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第17集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20200729/5b/a4/v_150963737_m_601_m2_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第17集"
+        },
+        "m3u8": "iqiyi_peppapig_1_17.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_19rza11ls8.html",
+        "liveapi": "https://www.iqiyi.com/v_19rza11ls8.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第18集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20200730/d2/6d/v_151107999_m_601_m2_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第18集"
+        },
+        "m3u8": "iqiyi_peppapig_1_18.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_1h80n5re2mw.html",
+        "liveapi": "https://www.iqiyi.com/v_1h80n5re2mw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第19集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20200729/22/7e/v_151157146_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第19集"
+        },
+        "m3u8": "iqiyi_peppapig_1_19.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_1quskf6d6ns.html",
+        "liveapi": "https://www.iqiyi.com/v_1quskf6d6ns.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第20集",
+            "tvg-logo": "https://pic8.iqiyipic.com/image/20200729/07/7a/v_151157232_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第20集"
+        },
+        "m3u8": "iqiyi_peppapig_1_20.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_1obsq5ztbpg.html",
+        "liveapi": "https://www.iqiyi.com/v_1obsq5ztbpg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第21集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20200731/0a/db/v_151173621_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第21集"
+        },
+        "m3u8": "iqiyi_peppapig_1_21.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_1nvivnafxrg.html",
+        "liveapi": "https://www.iqiyi.com/v_1nvivnafxrg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第22集",
+            "tvg-logo": "https://pic1.iqiyipic.com/image/20200731/fe/06/v_151173686_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第22集"
+        },
+        "m3u8": "iqiyi_peppapig_1_22.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_qlw2ejbfgo.html",
+        "liveapi": "https://www.iqiyi.com/v_qlw2ejbfgo.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第23集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20200806/1b/be/v_151173735_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第23集"
+        },
+        "m3u8": "iqiyi_peppapig_1_23.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_1g9kfcsn928.html",
+        "liveapi": "https://www.iqiyi.com/v_1g9kfcsn928.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第24集",
+            "tvg-logo": "https://pic2.iqiyipic.com/image/20200731/76/3d/v_151173797_m_601_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第24集"
+        },
+        "m3u8": "iqiyi_peppapig_1_24.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_171082jsmhg.html",
+        "liveapi": "https://www.iqiyi.com/v_171082jsmhg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第25集",
+            "tvg-logo": "https://pic6.iqiyipic.com/image/20200731/b3/b4/v_151173874_m_601_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第25集"
+        },
+        "m3u8": "iqiyi_peppapig_1_25.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_ghn8y8en4g.html",
+        "liveapi": "https://www.iqiyi.com/v_ghn8y8en4g.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第26集",
+            "tvg-logo": "https://pic1.iqiyipic.com/image/20200804/97/74/v_151173952_m_601_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第26集"
+        },
+        "m3u8": "iqiyi_peppapig_1_26.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_m8wbhcwkco.html",
+        "liveapi": "https://www.iqiyi.com/v_m8wbhcwkco.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第27集",
+            "tvg-logo": "https://pic3.iqiyipic.com/image/20200807/d7/51/v_151452587_m_601_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第27集"
+        },
+        "m3u8": "iqiyi_peppapig_1_27.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_1gdcz33w6yg.html",
+        "liveapi": "https://www.iqiyi.com/v_1gdcz33w6yg.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第28集",
+            "tvg-logo": "https://pic7.iqiyipic.com/image/20200807/d8/6d/v_151452642_m_601_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第28集"
+        },
+        "m3u8": "iqiyi_peppapig_1_28.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_1r2hpgg3qho.html",
+        "liveapi": "https://www.iqiyi.com/v_1r2hpgg3qho.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第29集",
+            "tvg-logo": "https://pic1.iqiyipic.com/image/20200730/04/c1/v_151160138_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第29集"
+        },
+        "m3u8": "iqiyi_peppapig_1_29.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_1lj0zye0550.html",
+        "liveapi": "https://www.iqiyi.com/v_1lj0zye0550.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第30集",
+            "tvg-logo": "https://pic0.iqiyipic.com/image/20200730/d2/25/v_151160137_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第30集"
+        },
+        "m3u8": "iqiyi_peppapig_1_30.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_ls3hs287vw.html",
+        "liveapi": "https://www.iqiyi.com/v_ls3hs287vw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第31集",
+            "tvg-logo": "https://pic5.iqiyipic.com/image/20200730/73/84/v_151160141_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第31集"
+        },
+        "m3u8": "iqiyi_peppapig_1_31.f4v"
+    },
+    {
+        "active": 1,
+        "plugin": "iqiyi_video",
+        "channel": "",
+        "website": "https://www.iqiyi.com/v_1h7bjeyqdpw.html",
+        "liveapi": "https://www.iqiyi.com/v_1h7bjeyqdpw.html",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0",
+            "Referer": ""
+        },
+        "referer": 0,
+        "m3uinfo": {
+            "tvg-id": "",
+            "tvg-name": "第32集",
+            "tvg-logo": "https://pic4.iqiyipic.com/image/20200730/99/95/v_151160140_m_601_m1_220_124.jpg",
+            "group-title": "重启之极海听雷第1季",
+            "title": "第32集"
+        },
+        "m3u8": "iqiyi_peppapig_1_32.f4v"
     }
 ]
