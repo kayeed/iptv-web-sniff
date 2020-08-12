@@ -74,9 +74,13 @@ class iqiyi_video(web_live):
                 self.logger.error(info)
                 return None
             url_prefix = info["data"]["vp"]["du"]
+            linkdict = {}
             for stream in info["data"]["vp"]["tkl"][0]["vs"]:
-                if stream["scrsz"] == "3840x2152" or stream["scrsz"] == "1920x1080":
-                    link = url_prefix + stream["fs"][0]["l"]
+                res  = int(stream["scrsz"].split("x")[1])
+                link = url_prefix + stream["fs"][0]["l"]
+                linkdict[res] = link
+            rates = sorted(linkdict.keys(), reverse=True)
+            link = linkdict[rates[0]]
             if link:
                 liveurl = link.replace("http", "https")
                 try:
