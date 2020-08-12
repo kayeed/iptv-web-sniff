@@ -16,7 +16,15 @@ class migu_live(web_live):
     def __probe_high_resolution(self, link):
 
         orig_link = link
-        if '350/' in orig_link:
+        if '1500/' in orig_link:
+            link = orig_link.replace('/1500/','/3000/')
+            if self.check_alive(link):
+                return link
+        elif '1200/' in orig_link:
+            link = orig_link.replace('/1200/','/2500/')
+            if self.check_alive(link):
+                return link
+        elif '350/' in orig_link:
             link = orig_link.replace('350/','3000/')
             if self.check_alive(link):
                 return link
@@ -27,6 +35,10 @@ class migu_live(web_live):
             if self.check_alive(link):
                 return link
             link = orig_link.replace('350/','1000/')
+            if self.check_alive(link):
+                return link
+        elif '51/' in orig_link:
+            link = orig_link.replace('51/','57/')
             if self.check_alive(link):
                 return link
         elif '50/' in orig_link:
